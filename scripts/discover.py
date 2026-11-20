@@ -113,7 +113,7 @@ def citing_works():
 
 
 def software_mentions():
-    phrases = '("ANDES simulator" OR "using ANDES" OR "ANDES software" OR "in ANDES")'
+    phrases = '("ANDES simulator" OR "ANDES software" OR "ANDES toolbox" OR "ANDES simulation platform" OR "CURENT/andes")'
     domain = '("power system" OR "power grid" OR "grid-forming" OR "transient stability")'
     return oa_results(search=f"{phrases} AND {domain}", filter="from_publication_date:2015-01-01")
 
