@@ -1,3 +1,2472 @@
 {
-  "candidates": []
+  "candidates": [
+    {
+      "title": "The Iberian blackout: A black swan or a gray rhino? A protection-aware dynamic voltage security assessment",
+      "date": "2026-11-11",
+      "doi": "10.1016/j.apenergy.2026.129216",
+      "arxivId": "2511.17433",
+      "openalexId": "W7161943337",
+      "url": "https://doi.org/10.1016/j.apenergy.2026.129216",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ],
+      "fulltextChecked": "2026-11-20",
+      "reviewHint": {
+        "excerpt": "added protected renewable plants. All simulations use ANDES 1.9.3 [9]. A gives the details of the test systems, and the code and",
+        "section": "7 Case Studies",
+        "url": "https://arxiv.org/html/2511.17433#S7.p1.1"
+      },
+      "fulltextStatus": "passage located; needs review"
+    },
+    {
+      "title": "Reducing Data-Center Load Transfers with Ride-Through-Aware Voltage Control",
+      "date": "2026-11-05",
+      "doi": "10.48550/arxiv.2611.08777",
+      "arxivId": "2611.08777",
+      "openalexId": "W7225616160",
+      "url": "https://doi.org/10.48550/arxiv.2611.08777",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ],
+      "fulltextChecked": "2026-11-20",
+      "reviewHint": {
+        "excerpt": "dataset [33]. Network dynamics are simulated using ANDES [34] over Tsim=0.5T_{\\mathrm{sim}}=0.5 s, with a control interval of Δ​t=1\\Delta t=1 ms and a",
+        "section": "IV Numerical Studies / IV-A Experimental Setup and Comparison Methods",
+        "url": "https://arxiv.org/html/2611.08777#S4.SS1.p1.1"
+      },
+      "fulltextStatus": "passage located; needs review"
+    },
+    {
+      "title": "TuneBench: Benchmarking AI Agents for Power System Dynamic Model Calibration",
+      "date": "2026-11-03",
+      "doi": "10.48550/arxiv.2611.04640",
+      "arxivId": "2611.04640",
+      "openalexId": "W7225240522",
+      "url": "https://doi.org/10.48550/arxiv.2611.04640",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ],
+      "fulltextChecked": "2026-11-20",
+      "reviewHint": {
+        "excerpt": "Both benchmark cases are built in ANDES. The device under test is connected to an infinite bus through a line and initially",
+        "section": "III Numerical Results",
+        "url": "https://arxiv.org/html/2611.04640#S3.p1.1"
+      },
+      "fulltextStatus": "passage located; needs review"
+    },
+    {
+      "title": "Ranking the Parameters Shaping Grid Dynamics",
+      "date": "2026-10-31",
+      "doi": "10.48550/arxiv.2611.01178",
+      "arxivId": "2611.01178",
+      "openalexId": "W7225202895",
+      "url": "https://doi.org/10.48550/arxiv.2611.01178",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ],
+      "fulltextChecked": "2026-11-20",
+      "reviewHint": {
+        "excerpt": "a power system simulation toolbox such as ANDES [25], because it reuses the simulator’s symbolic Jacobians, sparse Newton matrix, event handling, and",
+        "section": "III Variational Gramians for DAEs / III-C DAE Time-Step Differentiation (Method 2)",
+        "url": "https://arxiv.org/html/2611.01178#S3.SS3.p2.3"
+      },
+      "fulltextStatus": "passage located; needs review"
+    },
+    {
+      "title": "Joint frequency and voltage support from inverter air-conditioner fleets through network-aware predictive control",
+      "date": "2026-10-30",
+      "doi": "10.21203/rs.3.rs-11552393/v1",
+      "arxivId": null,
+      "openalexId": "W7224956649",
+      "url": "https://doi.org/10.21203/rs.3.rs-11552393/v1",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Synthesizing Voltage Ride-Through Controllers for Data Centers",
+      "date": "2026-10-29",
+      "doi": "10.1145/3847238.3849043",
+      "arxivId": "2608.07289",
+      "openalexId": "W7202137948",
+      "url": "https://doi.org/10.1145/3847238.3849043",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ],
+      "fulltextChecked": "2026-11-20",
+      "reviewHint": {
+        "excerpt": "next. We connect the data center to ANDES (Cui et al., 2021) on the 140-bus NPCC system on bus 128. The disturbance",
+        "section": "4. Results / Live grid simulator.",
+        "url": "https://arxiv.org/html/2608.07289#S4.SS0.SSS0.Px2.p1.1"
+      },
+      "fulltextStatus": "passage located; needs review"
+    },
+    {
+      "title": "A Mixed $H_{\\infty}$--Passivity Approach for Leveraging Heat-Pump-Connected District Heating Systems as Frequency Support in Electric Power Systems",
+      "date": "2026-10-29",
+      "doi": "10.48550/arxiv.2610.40955",
+      "arxivId": "2610.40955",
+      "openalexId": "W7225116913",
+      "url": "https://doi.org/10.48550/arxiv.2610.40955",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ],
+      "fulltextChecked": "2026-11-20",
+      "reviewHint": {
+        "excerpt": "modified IEEE 39-bus dynamic model implemented in ANDES, an open-source platform for electromechanical power-system dynamic simulation [24], and four finite-volume DHS models",
+        "section": "V Numerical Experiments",
+        "url": "https://arxiv.org/html/2610.40955#S5.p1.1"
+      },
+      "fulltextStatus": "passage located; needs review"
+    },
+    {
+      "title": "Physics-Informed Multi-Agent Transient Voltage Support with Simplified UHVDC Receiving-End Characteristics",
+      "date": "2026-10-27",
+      "doi": "10.3390/electronics15214964",
+      "arxivId": null,
+      "openalexId": "W7223812445",
+      "url": "https://doi.org/10.3390/electronics15214964",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Fiedler value-based edge sensitivity analysis in power systems",
+      "date": "2026-10-26",
+      "doi": "10.1016/j.epsr.2026.114414",
+      "arxivId": null,
+      "openalexId": "W7223665068",
+      "url": "https://doi.org/10.1016/j.epsr.2026.114414",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Online probabilistic early warning for power system dynamic congestion events with enhanced trustworthiness",
+      "date": "2026-10-20",
+      "doi": "10.1016/j.apenergy.2026.129050",
+      "arxivId": null,
+      "openalexId": "W7223060584",
+      "url": "https://doi.org/10.1016/j.apenergy.2026.129050",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Edge-ready anomaly detection using cyber–physical consistency assessment in power systems: A co-simulation-based approach",
+      "date": "2026-10-15",
+      "doi": "10.1016/j.ijcip.2026.100911",
+      "arxivId": null,
+      "openalexId": "W7222236159",
+      "url": "https://doi.org/10.1016/j.ijcip.2026.100911",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Development and Validation of a Versatile Reduced Order Kinetic Model of Close-coupled and Underfloor NH3-SCR Reactors for Integration into ECU",
+      "date": "2026-10-15",
+      "doi": "10.1007/s40825-026-00315-9",
+      "arxivId": null,
+      "openalexId": "W7222176171",
+      "url": "https://doi.org/10.1007/s40825-026-00315-9",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Knowledge boundary probing and demand-guided intervention for LLM-based power system code generation",
+      "date": "2026-10-03",
+      "doi": "10.1016/j.aei.2026.105328",
+      "arxivId": "2605.31478",
+      "openalexId": "W7163001058",
+      "url": "https://doi.org/10.1016/j.aei.2026.105328",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ],
+      "fulltextChecked": "2026-11-20",
+      "reviewHint": {
+        "excerpt": "on larger suites for OpenDSS, PyPSA, MATPOWER, ANDES, or GridCal is the next step [60, 61].",
+        "section": "6 Discussion / 6.3 Limitations and Future Work / Evaluation scope: library, output format, and probe granularity",
+        "url": "https://arxiv.org/html/2605.31478#S6.SS3.SSS0.Px1.p1.1"
+      },
+      "fulltextStatus": "passage located; needs review"
+    },
+    {
+      "title": "A composite dynamic security index for multi-domain transient stability assessment with cross-dataset and cross-simulator validation",
+      "date": "2026-10-01",
+      "doi": "10.1088/2631-8695/aead4d",
+      "arxivId": null,
+      "openalexId": "W7214645344",
+      "url": "https://doi.org/10.1088/2631-8695/aead4d",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations",
+        "OpenAlex text search"
+      ]
+    },
+    {
+      "title": "Unveiling the Nexus of Time Space and Memory in Sudha Murty's Dollar Bahu",
+      "date": "2026-09-29",
+      "doi": "10.51983/ijiss-2026.16.3.44",
+      "arxivId": null,
+      "openalexId": "W7221551341",
+      "url": "https://doi.org/10.51983/ijiss-2026.16.3.44",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Designing Grid-Aware Dynamic Specifications for Large Data Center Loads",
+      "date": "2026-09-16",
+      "doi": "10.48550/arxiv.2609.18888",
+      "arxivId": "2609.18888",
+      "openalexId": "W7213563863",
+      "url": "https://doi.org/10.48550/arxiv.2609.18888",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ],
+      "fulltextChecked": "2026-11-20",
+      "reviewHint": {
+        "excerpt": "design against detailed nonlinear dynamic simulations using ANDES. We tested T∈(0,10]T\\in(0,10] s and P∈[100,1000]P\\in[100,1000] MW. The black and blue lines in Fig.",
+        "section": "VI Numerical Tests",
+        "url": "https://arxiv.org/html/2609.18888#S6.p2.1"
+      },
+      "fulltextStatus": "passage located; needs review"
+    },
+    {
+      "title": "Hosting Capacity Assessment of Data Centers with Voltage Ride-Through Capability in Power Systems",
+      "date": "2026-09-02",
+      "doi": "10.48550/arxiv.2609.03030",
+      "arxivId": "2609.03030",
+      "openalexId": "W7208708026",
+      "url": "https://doi.org/10.48550/arxiv.2609.03030",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Structural and Spectral Criticality Observables for Topology-Free Power System Stability Assessment",
+      "date": "2026-09-01",
+      "doi": "10.1109/ict-pep71341.2026.11762188",
+      "arxivId": null,
+      "openalexId": "W7171919354",
+      "url": "https://doi.org/10.1109/ict-pep71341.2026.11762188",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Co-Located AI data centers, hydrogen production, and battery storage: a multi-timescale grid-connection assessment",
+      "date": "2026-09-01",
+      "doi": "10.1016/j.gloei.2026.08.002",
+      "arxivId": null,
+      "openalexId": "W7213400606",
+      "url": "https://doi.org/10.1016/j.gloei.2026.08.002",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Grid Integration of Gigawatt-Scale Hydrogen Hubs: A Multi-Timescale Stability Analysis and Connection Requirements for Weak Grid Environments",
+      "date": "2026-08-17",
+      "doi": null,
+      "arxivId": "2608.17019",
+      "url": "https://arxiv.org/abs/2608.17019",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "arXiv metadata"
+      ]
+    },
+    {
+      "title": "Residential load aggregation for secondary frequency regulation: A privacy-preserving online learning-based approach",
+      "date": "2026-08-10",
+      "doi": "10.1016/j.apenergy.2026.128613",
+      "arxivId": null,
+      "openalexId": "W7202100514",
+      "url": "https://doi.org/10.1016/j.apenergy.2026.128613",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Fully Coupled Two-Point Block BDF Integration of High-Order Synchronous-Machine DAE Models",
+      "date": "2026-08-01",
+      "doi": "10.1109/iceece71300.2026.11710052",
+      "arxivId": null,
+      "openalexId": "W7215062353",
+      "url": "https://doi.org/10.1109/iceece71300.2026.11710052",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Frozen-Jacobian Newton-LU Acceleration for Implicit Block BDF Power-System Simulation",
+      "date": "2026-08-01",
+      "doi": "10.1109/iceece71300.2026.11710036",
+      "arxivId": null,
+      "openalexId": "W7215040226",
+      "url": "https://doi.org/10.1109/iceece71300.2026.11710036",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Overvoltage Mechanism of Offshore Wind Farm Based on 66 kV Submarine Cable Transmission System",
+      "date": "2026-07-30",
+      "doi": "10.1007/978-981-95-6055-4_6",
+      "arxivId": null,
+      "openalexId": "W7171659677",
+      "url": "https://doi.org/10.1007/978-981-95-6055-4_6",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex text search"
+      ]
+    },
+    {
+      "title": "Multidisciplinary design, analysis, and optimization (MDO) for co-designed transmission & distribution electric grid planning",
+      "date": "2026-07-28",
+      "doi": "10.1016/j.epsr.2026.113690",
+      "arxivId": null,
+      "openalexId": "W7171487364",
+      "url": "https://doi.org/10.1016/j.epsr.2026.113690",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "A Graph Neural Network With Auxiliary Task Learning for Missing PMU Data Reconstruction",
+      "date": "2026-07-20",
+      "doi": "10.1109/tsg.2026.3715158",
+      "arxivId": "2512.24542",
+      "openalexId": "W7169782871",
+      "url": "https://doi.org/10.1109/tsg.2026.3715158",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Review on learning-based anomaly detection in power systems",
+      "date": "2026-07-11",
+      "doi": "10.1016/j.epsr.2026.113772",
+      "arxivId": null,
+      "openalexId": "W7168024401",
+      "url": "https://doi.org/10.1016/j.epsr.2026.113772",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Network Interdependency-Informed Power System Dynamic Trajectory Prediction Utilizing Black-Box Modeling of Multiple Inverter-Based Resources",
+      "date": "2026-07-07",
+      "doi": "10.48550/arxiv.2607.05843",
+      "arxivId": "2607.05843",
+      "openalexId": "W7167681818",
+      "url": "https://doi.org/10.48550/arxiv.2607.05843",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Causal--Structural Dynamic Graph Learning for Online Transient Stability Trajectory Prediction in Power Systems",
+      "date": "2026-07-07",
+      "doi": "10.48550/arxiv.2607.05729",
+      "arxivId": "2607.05729",
+      "openalexId": "W7167716924",
+      "url": "https://doi.org/10.48550/arxiv.2607.05729",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Kiso: a foundation for complex, agentic, and reproducible experiments",
+      "date": "2026-07-06",
+      "doi": "10.3389/fcpxs.2026.1800335",
+      "arxivId": null,
+      "openalexId": "W7167408981",
+      "url": "https://doi.org/10.3389/fcpxs.2026.1800335",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Stability-Informed Defense Prioritization for Power Grid Protection Against Coordinated Drone Attacks",
+      "date": "2026-07-01",
+      "doi": "10.1109/itc-egypt70422.2026.11765590",
+      "arxivId": null,
+      "openalexId": "W7225852126",
+      "url": "https://doi.org/10.1109/itc-egypt70422.2026.11765590",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Stability-Constrained Siting of Pulsed Counter-UAS Loads in Transmission Substations",
+      "date": "2026-07-01",
+      "doi": "10.1109/itc-egypt70422.2026.11765411",
+      "arxivId": null,
+      "openalexId": "W7225875440",
+      "url": "https://doi.org/10.1109/itc-egypt70422.2026.11765411",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Democratizing Resilience Analysis: Open‐Source Tool Adaptation for Multi‐Stakeholder Infrastructure Assessment",
+      "date": "2026-07-01",
+      "doi": "10.1002/iis2.70246",
+      "arxivId": null,
+      "openalexId": "W7212267760",
+      "url": "https://doi.org/10.1002/iis2.70246",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations",
+        "OpenAlex text search"
+      ]
+    },
+    {
+      "title": "An Open Machine-Learning–Oriented Dynamic Simulation Dataset for Power System Studies",
+      "date": "2026-07-01",
+      "doi": "10.1109/pesgm58988.2026.11693714",
+      "arxivId": null,
+      "openalexId": "W7214211608",
+      "url": "https://doi.org/10.1109/pesgm58988.2026.11693714",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "A Unified Dynamic Modeling and Data-Driven Workload Framework for Large Electric Loads",
+      "date": "2026-07-01",
+      "doi": "10.1109/pesgm58988.2026.11693764",
+      "arxivId": null,
+      "openalexId": "W7214163234",
+      "url": "https://doi.org/10.1109/pesgm58988.2026.11693764",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations",
+        "OpenAlex text search"
+      ]
+    },
+    {
+      "title": "A Frequency-Constrained SC-AC OPF Method with Joint Static and Frequency Security Constraints",
+      "date": "2026-07-01",
+      "doi": "10.1109/pesgm58988.2026.11693524",
+      "arxivId": null,
+      "openalexId": "W7214161628",
+      "url": "https://doi.org/10.1109/pesgm58988.2026.11693524",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Model reduction of electromagnetic transient dynamics for inverter-based grids: an interconnected systems framework",
+      "date": "2026-06-29",
+      "doi": "10.1016/j.epsr.2026.113671",
+      "arxivId": null,
+      "openalexId": "W7166592371",
+      "url": "https://doi.org/10.1016/j.epsr.2026.113671",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Towards intelligent simulation platforms for scalable validation of digital energy systems",
+      "date": "2026-06-28",
+      "doi": "10.1016/j.epsr.2026.113531",
+      "arxivId": null,
+      "openalexId": "W7166340873",
+      "url": "https://doi.org/10.1016/j.epsr.2026.113531",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Sustainable energy management in IoT-enabled hybrid microgrids via graph neural network-optimized automatic generation control",
+      "date": "2026-06-28",
+      "doi": "10.1016/j.suscom.2026.101416",
+      "arxivId": null,
+      "openalexId": "W7166433092",
+      "url": "https://doi.org/10.1016/j.suscom.2026.101416",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Hyperscale Data Centers as Wide-Area Damping Actuators for Low-Inertia Power Systems",
+      "date": "2026-06-27",
+      "doi": "10.1007/s40866-026-00358-5",
+      "arxivId": "2610.33742",
+      "openalexId": "W7166119331",
+      "url": "https://doi.org/10.1007/s40866-026-00358-5",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations",
+        "OpenAlex text search",
+        "arXiv metadata"
+      ]
+    },
+    {
+      "title": "Data Center Voltage Ride-Through: Emerging Challenges and Opportunities",
+      "date": "2026-06-22",
+      "doi": "10.1145/3744255.3798125",
+      "arxivId": null,
+      "openalexId": "W7164961212",
+      "url": "https://doi.org/10.1145/3744255.3798125",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Power Systems Agent Benchmark: Executable Evaluation of AI Agents in Electric Power Engineering",
+      "date": "2026-06-18",
+      "doi": "10.48550/arxiv.2606.20950",
+      "arxivId": "2606.20950",
+      "openalexId": "W7165689138",
+      "url": "https://doi.org/10.48550/arxiv.2606.20950",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Frequency-Domain Characterization of Load Demand From Electrified Highways",
+      "date": "2026-06-11",
+      "doi": "10.1109/tpwrs.2026.3702854",
+      "arxivId": "2509.02426",
+      "openalexId": "W4416711640",
+      "url": "https://doi.org/10.1109/tpwrs.2026.3702854",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Source Side Mitigation of AI Datacenter Power Fluctuations with a Hybrid Energy Storage System and Residual Differentiable Predictive Control",
+      "date": "2026-06-03",
+      "doi": "10.48550/arxiv.2606.04869",
+      "arxivId": "2606.04869",
+      "openalexId": "W7163590746",
+      "url": "https://doi.org/10.48550/arxiv.2606.04869",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Power System Transient Trajectory Prediction via Topo-DeepONet with Adaptive Graph Attention",
+      "date": "2026-06-01",
+      "doi": "10.1109/icicr69256.2026.00156",
+      "arxivId": null,
+      "openalexId": "W7225637479",
+      "url": "https://doi.org/10.1109/icicr69256.2026.00156",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Power System CBFs",
+      "date": "2026-06-01",
+      "doi": "10.48550/arxiv.2606.02949",
+      "arxivId": "2606.02949",
+      "openalexId": "W7163409044",
+      "url": "https://doi.org/10.48550/arxiv.2606.02949",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Deep Generative Model-Aided Communication-Efficient and Cyber-Resilient Power System Dynamic State Estimation",
+      "date": "2026-05-28",
+      "doi": "10.1109/tsg.2026.3697893",
+      "arxivId": null,
+      "openalexId": "W7162677987",
+      "url": "https://doi.org/10.1109/tsg.2026.3697893",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Surrogate-Assisted Differential Evolution for Emergency Load Shedding under Multiple Security Constraints",
+      "date": "2026-05-22",
+      "doi": "10.1109/epsic70071.2026.11590171",
+      "arxivId": null,
+      "openalexId": "W7167823729",
+      "url": "https://doi.org/10.1109/epsic70071.2026.11590171",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Generator Frequency Trajectory Prediction After Large Disturbances Using Conditional Invertible Models",
+      "date": "2026-05-22",
+      "doi": "10.1109/epsic70071.2026.11590143",
+      "arxivId": null,
+      "openalexId": "W7167834937",
+      "url": "https://doi.org/10.1109/epsic70071.2026.11590143",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Vulnerability of data-driven transient stability prediction to cyber-physical attacks: A forensic XAI approach",
+      "date": "2026-05-14",
+      "doi": "10.1016/j.epsr.2026.113274",
+      "arxivId": null,
+      "openalexId": "W7161178681",
+      "url": "https://doi.org/10.1016/j.epsr.2026.113274",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "THE EXTENDED ALPHA GROUP DYNAMIC MAPPING",
+      "date": "2026-05-08",
+      "doi": "10.31219/osf.io/5xw2r_v2",
+      "arxivId": "2507.18303",
+      "openalexId": "W7160635780",
+      "url": "https://doi.org/10.31219/osf.io/5xw2r_v2",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Frequency Stability Constrained Capacity Expansion Planning through Virtual Inertia and Droop Capacities Allocation of IBRs",
+      "date": "2026-05-04",
+      "doi": "10.1109/td48022.2026.11562562",
+      "arxivId": null,
+      "openalexId": "W7165052275",
+      "url": "https://doi.org/10.1109/td48022.2026.11562562",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Wide-Area Power System Oscillations From Large-Scale AI Workloads",
+      "date": "2026-04-20",
+      "doi": "10.1109/tpwrs.2026.3685506",
+      "arxivId": "2508.16457",
+      "openalexId": "W7154989894",
+      "url": "https://doi.org/10.1109/tpwrs.2026.3685506",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Power System Dynamic Component Modeling via Physics-Constrained Predictor-Corrector Neural Differential Algebraic Equations with Soft Continuity",
+      "date": "2026-04-17",
+      "doi": "10.1109/ceepe69795.2026.11552299",
+      "arxivId": null,
+      "openalexId": "W7164156887",
+      "url": "https://doi.org/10.1109/ceepe69795.2026.11552299",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Sparse Tableau-Based Dynamic Simulation for Active Distribution Feeders",
+      "date": "2026-04-16",
+      "doi": "10.1109/peci70026.2026.11516420",
+      "arxivId": null,
+      "openalexId": "W7161178273",
+      "url": "https://doi.org/10.1109/peci70026.2026.11516420",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "PFAgent: A Tractable and Self-Evolving Power-Flow Agent for Interactive Grid Analysis",
+      "date": "2026-04-12",
+      "doi": "10.48550/arxiv.2604.10846",
+      "arxivId": "2604.10846",
+      "openalexId": "W7154315117",
+      "url": "https://doi.org/10.48550/arxiv.2604.10846",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Bridging Natural Language and Microgrid Dynamics: A Context-Aware Simulator and Dataset",
+      "date": "2026-04-07",
+      "doi": "10.48550/arxiv.2604.05429",
+      "arxivId": "2604.05429",
+      "openalexId": "W7152124057",
+      "url": "https://doi.org/10.48550/arxiv.2604.05429",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Predicting Power grid frequency dynamics with invertible Koopman-based architectures",
+      "date": "2026-03-23",
+      "doi": "10.1109/osmses69376.2026.11457224",
+      "arxivId": "2603.14442",
+      "openalexId": "W7147398720",
+      "url": "https://doi.org/10.1109/osmses69376.2026.11457224",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Flow-based Polynomial Chaos Expansion for Uncertainty Quantification in Power System Dynamic Simulation",
+      "date": "2026-03-20",
+      "doi": "10.48550/arxiv.2603.20472",
+      "arxivId": "2603.20472",
+      "openalexId": "W7140213567",
+      "url": "https://doi.org/10.48550/arxiv.2603.20472",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "OPEN COG Grid: Open Extendable Coherent Models-Datasets for Cognitive Power Grids (Performance Year 2 Technical Report)",
+      "date": "2026-03-09",
+      "doi": "10.2172/17019144",
+      "arxivId": null,
+      "openalexId": "W7214902973",
+      "url": "https://doi.org/10.2172/17019144",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Distributed optimization and control for autonomous distributed energy resource power dispatch and frequency regulation considering communication failures",
+      "date": "2026-02-28",
+      "doi": "10.1016/j.segan.2026.102170",
+      "arxivId": null,
+      "openalexId": "W7132829914",
+      "url": "https://doi.org/10.1016/j.segan.2026.102170",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Hybrid deep learning methodology for dynamic stability and instability mode analysis considering renewable penetration",
+      "date": "2026-02-12",
+      "doi": "10.1016/j.epsr.2026.112831",
+      "arxivId": null,
+      "openalexId": "W7128680108",
+      "url": "https://doi.org/10.1016/j.epsr.2026.112831",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "System Synchronization Based on Complex Frequency",
+      "date": "2026-01-29",
+      "doi": "10.3390/en19030701",
+      "arxivId": "2508.11381",
+      "openalexId": "W7126083761",
+      "url": "https://doi.org/10.3390/en19030701",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Bridge the Sim-to-Real Gap in Virtual Synchronous Generator-Based Frequency Control With Robust Deep Reinforcement Learning",
+      "date": "2026-01-28",
+      "doi": "10.1109/tpwrs.2026.3658809",
+      "arxivId": null,
+      "openalexId": "W7125941718",
+      "url": "https://doi.org/10.1109/tpwrs.2026.3658809",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Inertia Estimation for Stability-Constrained Economic Dispatch of IBR Penetrated Grid",
+      "date": "2026-01-18",
+      "doi": "10.1109/pesim67009.2026.11438869",
+      "arxivId": null,
+      "openalexId": "W7140105277",
+      "url": "https://doi.org/10.1109/pesim67009.2026.11438869",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Adaptive Frequency Control for Inverter-Based Resources via Equivalent Inertia-Based Deep Reinforcement Learning",
+      "date": "2026-01-05",
+      "doi": "10.1109/eesat65054.2026.11404105",
+      "arxivId": null,
+      "openalexId": "W7131667590",
+      "url": "https://doi.org/10.1109/eesat65054.2026.11404105",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Unified Physics-Informed Trajectory Surrogate for Transient Stability Assessment and Critical Clearing Time Estimation on a Single-Machine Infinite-Bus Benchmark",
+      "date": "2026-01-01",
+      "doi": "10.1109/access.2026.3718419",
+      "arxivId": null,
+      "openalexId": "W7171989603",
+      "url": "https://doi.org/10.1109/access.2026.3718419",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Uncertainty-Aware Anomaly Prediction Using Conformal Multivariate Time Series Clustering",
+      "date": "2026-01-01",
+      "doi": "10.1109/ticps.2026.3686147",
+      "arxivId": null,
+      "openalexId": "W7155034548",
+      "url": "https://doi.org/10.1109/ticps.2026.3686147",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Physics-Informed Safe Reinforcement Learning for Primary Frequency Control of VSG-Based Grid-Forming Inverters",
+      "date": "2026-01-01",
+      "doi": "10.2139/ssrn.7166776",
+      "arxivId": null,
+      "openalexId": "W7170181312",
+      "url": "https://doi.org/10.2139/ssrn.7166776",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "PI‐Formers: An AI4S Approach for Transient Rotor Angle Prediction in Renewable‐Integrated Power System Under Large Disturbances",
+      "date": "2026-01-01",
+      "doi": "10.1049/rpg2.70218",
+      "arxivId": null,
+      "openalexId": "W7134974039",
+      "url": "https://doi.org/10.1049/rpg2.70218",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Learning and Co-Optimization of Fusion Outage Trajectories With Thermal and Battery Storag",
+      "date": "2026-01-01",
+      "doi": "10.2139/ssrn.7471444",
+      "arxivId": null,
+      "openalexId": "W7213249826",
+      "url": "https://doi.org/10.2139/ssrn.7471444",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Hybrid Symbolic-Numerical Modeling and Parametric Stability Analysis of DC–AC Power Systems",
+      "date": "2026-01-01",
+      "doi": "10.1109/oajpe.2026.3666135",
+      "arxivId": null,
+      "openalexId": "W7131111117",
+      "url": "https://doi.org/10.1109/oajpe.2026.3666135",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "GridPACK: A Unified Open-Source High-Performance Computing Platform for Scalable Power System Simulation",
+      "date": "2026-01-01",
+      "doi": "10.1109/oajpe.2026.3728767",
+      "arxivId": null,
+      "openalexId": "W7204760300",
+      "url": "https://doi.org/10.1109/oajpe.2026.3728767",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Grid-Orch: An LLM-Powered Orchestrator for Distribution Grid Simulation and Analytics",
+      "date": "2026-01-01",
+      "doi": "10.1109/oajpe.2026.3721083",
+      "arxivId": "2605.12728",
+      "openalexId": "W7196945410",
+      "url": "https://doi.org/10.1109/oajpe.2026.3721083",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Enhancing Grid Resilience via Bidirectional Adaptive Control of Distributed Energy Resources Under Composite High‐Impact Contingencies",
+      "date": "2026-01-01",
+      "doi": "10.1049/gtd2.70431",
+      "arxivId": null,
+      "openalexId": "W7207592903",
+      "url": "https://doi.org/10.1049/gtd2.70431",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Dynamic simulation and stability analysis of power systems: Development of RMS and EMT tools within VeraGrid at eRoots",
+      "date": "2026-01-01",
+      "doi": null,
+      "arxivId": null,
+      "openalexId": "W7135598474",
+      "url": "https://hdl.handle.net/2117/457527",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Digital-Twin Screening of Grid-Forming Support for Weak Power Systems",
+      "date": "2026-01-01",
+      "doi": null,
+      "arxivId": null,
+      "openalexId": "W7223598173",
+      "url": "https://vbn.aau.dk/da/publications/287955ae-73c9-4f53-9718-776420ddee71",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Calculation and Evaluation of Complex Inertia for Nodes in Low-Inertia Power Systems",
+      "date": "2026-01-01",
+      "doi": "10.2139/ssrn.5820302",
+      "arxivId": null,
+      "openalexId": "W7118431467",
+      "url": "https://doi.org/10.2139/ssrn.5820302",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Adversarial Self‐Improvement for Resilient Smart Grid Dispatch Control Under Extreme N‐2 Contingencies",
+      "date": "2026-01-01",
+      "doi": "10.1049/stg2.70090",
+      "arxivId": null,
+      "openalexId": "W7236867443",
+      "url": "https://doi.org/10.1049/stg2.70090",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "A Matlab-Based Toolbox for Automatic EMT Modeling and Small-Signal Stability Analysis of Hybrid AC/DC Power Systems",
+      "date": "2026-01-01",
+      "doi": "10.1109/oajpe.2026.3726306",
+      "arxivId": "2506.22201",
+      "openalexId": "W7204108571",
+      "url": "https://doi.org/10.1109/oajpe.2026.3726306",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "A Hybrid Energy–Area Criterion Incorporating Voltage Dynamics in Low Inertia Power Systems",
+      "date": "2026-01-01",
+      "doi": "10.2139/ssrn.7257178",
+      "arxivId": null,
+      "openalexId": "W7202357239",
+      "url": "https://doi.org/10.2139/ssrn.7257178",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Exploiting the Flexibility and Frequency Support Capability of Grid-Forming Energy Storage: A Bi-Level Robust Planning Model Considering Uncertainties",
+      "date": "2025-12-26",
+      "doi": "10.3390/pr14010090",
+      "arxivId": null,
+      "openalexId": "W7117482691",
+      "url": "https://doi.org/10.3390/pr14010090",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Dynamic Interactive Framework of Power System Considering Multiple VSC Integration",
+      "date": "2025-12-17",
+      "doi": "10.1109/tia.2025.3645159",
+      "arxivId": null,
+      "openalexId": "W4417439167",
+      "url": "https://doi.org/10.1109/tia.2025.3645159",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "DIGITAL COMPLIANCE FRAMEWORKS FOR PROTECTING CUSTOMER DATA ACROSS SERVICE AND HOSPITALITY OPERATIONS PLATFORMS",
+      "date": "2025-12-01",
+      "doi": "10.63125/fp60z147",
+      "arxivId": null,
+      "openalexId": "W7119994281",
+      "url": "https://doi.org/10.63125/fp60z147",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Development of an Open-Source Package (ePowerSim.jl) for Static, Quasi-Static, and Dynamic Simulation of Electric Power Systems",
+      "date": "2025-11-29",
+      "doi": "10.3390/en18236289",
+      "arxivId": null,
+      "openalexId": "W4417047879",
+      "url": "https://doi.org/10.3390/en18236289",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Neural ODE-Based Frequency Stability Assessment and Control of Energy Storage Systems",
+      "date": "2025-11-12",
+      "doi": "10.3390/app152212048",
+      "arxivId": null,
+      "openalexId": "W4416192600",
+      "url": "https://doi.org/10.3390/app152212048",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Transfer Capability Studies in Transmission and Distribution Co-Simulation With HELICS",
+      "date": "2025-10-26",
+      "doi": "10.1109/naps66256.2025.11272241",
+      "arxivId": null,
+      "openalexId": "W4417170408",
+      "url": "https://doi.org/10.1109/naps66256.2025.11272241",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Co-Simulation of PSS/E, OpenDSS, and PSCAD for Power Systems Stability Analysis With Inverter-Based Resources",
+      "date": "2025-10-26",
+      "doi": "10.1109/naps66256.2025.11272399",
+      "arxivId": null,
+      "openalexId": "W4417169065",
+      "url": "https://doi.org/10.1109/naps66256.2025.11272399",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Enhancing Data Center Low-Voltage Ride-Through",
+      "date": "2025-10-04",
+      "doi": "10.48550/arxiv.2510.03867",
+      "arxivId": "2510.03867",
+      "openalexId": "W4416373219",
+      "url": "https://doi.org/10.48550/arxiv.2510.03867",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations",
+        "OpenAlex text search"
+      ]
+    },
+    {
+      "title": "CommonPower: A Framework for Safe Data-Driven Smart Grid Control",
+      "date": "2025-10-01",
+      "doi": "10.1109/tsg.2025.3616402",
+      "arxivId": "2406.03231",
+      "openalexId": "W4414693541",
+      "url": "https://doi.org/10.1109/tsg.2025.3616402",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Provable Stability of Reinforcement Learning-Based Frequency Control in Low-Inertia Power Systems",
+      "date": "2025-09-29",
+      "doi": "10.1109/smartgridcomm65349.2025.11204642",
+      "arxivId": null,
+      "openalexId": "W4415398586",
+      "url": "https://doi.org/10.1109/smartgridcomm65349.2025.11204642",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Adaptive Transient Power Angle Control for Virtual Synchronous Generators via Physics-Embedded Reinforcement Learning",
+      "date": "2025-09-01",
+      "doi": "10.3390/electronics14173503",
+      "arxivId": null,
+      "openalexId": "W4413885101",
+      "url": "https://doi.org/10.3390/electronics14173503",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Beyond Monotonic Droop: Expanding Feasible Control Regions for Optimal Frequency Regulation",
+      "date": "2025-08-11",
+      "doi": "10.1109/tpwrs.2025.3597567",
+      "arxivId": null,
+      "openalexId": "W4413212308",
+      "url": "https://doi.org/10.1109/tpwrs.2025.3597567",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "A vector-based flexible-complexity tool for simulation and small-signal analysis of hybrid AC/DC power systems",
+      "date": "2025-07-31",
+      "doi": "10.1016/j.segan.2025.101817",
+      "arxivId": null,
+      "openalexId": "W4412791116",
+      "url": "https://doi.org/10.1016/j.segan.2025.101817",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Semi-supervised multi-task learning based framework for power system security assessment",
+      "date": "2025-07-29",
+      "doi": "10.1016/j.ijepes.2025.110910",
+      "arxivId": "2407.08886",
+      "openalexId": "W4412721864",
+      "url": "https://doi.org/10.1016/j.ijepes.2025.110910",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Virtual Inertia Scheduling in Unit Commitment for IBR-Penetrated Low-Inertia Systems",
+      "date": "2025-07-27",
+      "doi": "10.1109/pesgm52009.2025.11225851",
+      "arxivId": null,
+      "openalexId": "W4416137034",
+      "url": "https://doi.org/10.1109/pesgm52009.2025.11225851",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Improving Numerical Stability and Accuracy in Partitioned Methods with Algebraic Prediction",
+      "date": "2025-07-27",
+      "doi": "10.1109/pesgm52009.2025.11225781",
+      "arxivId": "2412.10911",
+      "openalexId": "W4416136244",
+      "url": "https://doi.org/10.1109/pesgm52009.2025.11225781",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Learning Frequency Dynamics of the Power System Using Higher-order Dynamic Mode Decomposition",
+      "date": "2025-06-29",
+      "doi": "10.1109/powertech59965.2025.11180213",
+      "arxivId": "2502.06186",
+      "openalexId": "W4414956887",
+      "url": "https://doi.org/10.1109/powertech59965.2025.11180213",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Power Network Connectivity and Island Detection Algorithms: Review and Performance Benchmark",
+      "date": "2025-06-15",
+      "doi": "10.1109/ias62731.2025.11061496",
+      "arxivId": null,
+      "openalexId": "W4412129181",
+      "url": "https://doi.org/10.1109/ias62731.2025.11061496",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Pathway Toward an Open Source Ecosystem in Power Systems: A blueprint for collaborative innovation and software sustainability",
+      "date": "2025-06-01",
+      "doi": "10.1109/mele.2025.3558711",
+      "arxivId": null,
+      "openalexId": "W4411019112",
+      "url": "https://doi.org/10.1109/mele.2025.3558711",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "MatPSST: a Dynamic Modeling Platform for Power System with Large-Scale Wind and Photovoltaic Power Stations",
+      "date": "2025-05-30",
+      "doi": "10.1007/978-981-96-3781-2_3",
+      "arxivId": null,
+      "openalexId": "W4410865392",
+      "url": "https://doi.org/10.1007/978-981-96-3781-2_3",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Physics-informed reinforcement learning for emergency rotor angle control in power systems considering renewable energy penetration",
+      "date": "2025-05-10",
+      "doi": "10.1007/s00202-025-03105-8",
+      "arxivId": null,
+      "openalexId": "W4410265290",
+      "url": "https://doi.org/10.1007/s00202-025-03105-8",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Steady-state power system analysis revisited for hybrid AC–DC grids",
+      "date": "2025-03-13",
+      "doi": "10.1016/j.rser.2025.115564",
+      "arxivId": null,
+      "openalexId": "W4408389637",
+      "url": "https://doi.org/10.1016/j.rser.2025.115564",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "A Review of Safe Reinforcement Learning Methods for Modern Power Systems",
+      "date": "2025-03-01",
+      "doi": "10.1109/jproc.2025.3584656",
+      "arxivId": "2407.00304",
+      "openalexId": "W4412375006",
+      "url": "https://doi.org/10.1109/jproc.2025.3584656",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Inverter-Based Resources",
+      "date": "2025-02-04",
+      "doi": "10.1007/978-3-031-80581-3_15",
+      "arxivId": null,
+      "openalexId": "W4407100487",
+      "url": "https://doi.org/10.1007/978-3-031-80581-3_15",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Rapid system prototype‐based physical simulation platforms for power systems with high penetration of inverter‐based resources",
+      "date": "2025-02-01",
+      "doi": "10.1049/hve2.12520",
+      "arxivId": null,
+      "openalexId": "W4407384160",
+      "url": "https://doi.org/10.1049/hve2.12520",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Dynamics-Incorporated Modeling Framework for Stability Constrained Scheduling Under High-Penetration of Renewable Energy",
+      "date": "2025-01-10",
+      "doi": "10.1109/tste.2025.3528027",
+      "arxivId": null,
+      "openalexId": "W4406259147",
+      "url": "https://doi.org/10.1109/tste.2025.3528027",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Deep Generative Model-Aided Power System Dynamic State Estimation and Reconstruction with Unknown Control Inputs or Data Distributions",
+      "date": "2025-01-06",
+      "doi": "10.48550/arxiv.2501.02928",
+      "arxivId": "2501.02928",
+      "openalexId": "W4406123261",
+      "url": "https://doi.org/10.48550/arxiv.2501.02928",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Synergistic Meta-Heuristic Adaptive Real-Time Power System Stabilizer (SMART-PSS)",
+      "date": "2025-01-01",
+      "doi": "10.1109/oajpe.2025.3532768",
+      "arxivId": null,
+      "openalexId": "W4406753714",
+      "url": "https://doi.org/10.1109/oajpe.2025.3532768",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Reinforcement Learning for Stability-Guaranteed Adaptive Optimal Primary Frequency Control of Power Systems Using Partially Monotonic Neural Networks",
+      "date": "2025-01-01",
+      "doi": "10.1109/oajpe.2025.3556142",
+      "arxivId": null,
+      "openalexId": "W4409090270",
+      "url": "https://doi.org/10.1109/oajpe.2025.3556142",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Open Power System Datasets and Open Simulation Engines: A Survey Toward Machine Learning Applications",
+      "date": "2025-01-01",
+      "doi": "10.1109/oajpe.2025.3573958",
+      "arxivId": null,
+      "openalexId": "W4410737593",
+      "url": "https://doi.org/10.1109/oajpe.2025.3573958",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Online Event-Triggered Switching for Frequency Control in Power Grids With Variable Inertia",
+      "date": "2025-01-01",
+      "doi": "10.1109/tpwrs.2024.3523262",
+      "arxivId": "2408.15436",
+      "openalexId": "W4405968123",
+      "url": "https://doi.org/10.1109/tpwrs.2024.3523262",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Design and evaluation of multidimensional CNN simulation framework against synchrophasor data spoofing attacks and correction for cyber‐resiliency in power system",
+      "date": "2025-01-01",
+      "doi": "10.1049/gtd2.13348",
+      "arxivId": null,
+      "openalexId": "W4409053100",
+      "url": "https://doi.org/10.1049/gtd2.13348",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Demonstrating the Transient System Impact of Cyber-Physical Events Through Scalable Transmission and Distribution (T&D) Co-Simulation",
+      "date": "2025-01-01",
+      "doi": "10.17775/cseejpes.2023.01710",
+      "arxivId": null,
+      "openalexId": "W4407926160",
+      "url": "https://doi.org/10.17775/cseejpes.2023.01710",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Real-Time Multi-Stability Risk Assessment and Visualization of Power Systems: A Graph Neural Network-Based Method",
+      "date": "2024-12-31",
+      "doi": "10.1109/tpwrs.2024.3524406",
+      "arxivId": null,
+      "openalexId": "W4405934653",
+      "url": "https://doi.org/10.1109/tpwrs.2024.3524406",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Evaluating the Equivalent Inertia of Grid-Following and Grid-Forming Inverter-Based Resources",
+      "date": "2024-12-20",
+      "doi": "10.1109/tec.2024.3520383",
+      "arxivId": null,
+      "openalexId": "W4405632249",
+      "url": "https://doi.org/10.1109/tec.2024.3520383",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Performance Year 1 Technical Report - OPEN COG Grid: Extendable Coherent Models-Datasets for Cognitive Power Grids",
+      "date": "2024-12-06",
+      "doi": "10.2172/2484228",
+      "arxivId": null,
+      "openalexId": "W4406016453",
+      "url": "https://doi.org/10.2172/2484228",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Learning-based flexible load aggregation for secondary frequency regulation in co-simulated transmission and distribution networks",
+      "date": "2024-11-08",
+      "doi": "10.1016/j.ijepes.2024.110339",
+      "arxivId": null,
+      "openalexId": "W4404162564",
+      "url": "https://doi.org/10.1016/j.ijepes.2024.110339",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Transient Stability Enhancement via a Scalable RL Method with VSG Parameter Tuning",
+      "date": "2024-11-03",
+      "doi": "10.1109/iecon55916.2024.10905298",
+      "arxivId": null,
+      "openalexId": "W4408281557",
+      "url": "https://doi.org/10.1109/iecon55916.2024.10905298",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Virtual Inertia Scheduling (VIS) for Microgrids With Static and Dynamic Security Constraints",
+      "date": "2024-10-22",
+      "doi": "10.1109/tste.2024.3481239",
+      "arxivId": null,
+      "openalexId": "W4403636069",
+      "url": "https://doi.org/10.1109/tste.2024.3481239",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Modeling and Validating System Dynamics in Saudi Synthetic Electric Grid",
+      "date": "2024-10-13",
+      "doi": "10.1109/naps61145.2024.10741657",
+      "arxivId": null,
+      "openalexId": "W4404132980",
+      "url": "https://doi.org/10.1109/naps61145.2024.10741657",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Impact of Reordering on the LU Factorization Performance of Bordered Block-Diagonal Sparse Matrix",
+      "date": "2024-10-13",
+      "doi": "10.1109/naps61145.2024.10741847",
+      "arxivId": null,
+      "openalexId": "W4404133127",
+      "url": "https://doi.org/10.1109/naps61145.2024.10741847",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "An Integrated and Iterative Multiscale Modeling Framework for Robust Capacity Expansion Planning",
+      "date": "2024-08-15",
+      "doi": "10.1007/s40518-024-00238-5",
+      "arxivId": null,
+      "openalexId": "W4401620544",
+      "url": "https://doi.org/10.1007/s40518-024-00238-5",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Optimal Coordinated Generator Tripping and Load Shedding for Power System Transient Stability Enhancement",
+      "date": "2024-07-21",
+      "doi": "10.1109/pesgm51994.2024.10688439",
+      "arxivId": null,
+      "openalexId": "W4403127573",
+      "url": "https://doi.org/10.1109/pesgm51994.2024.10688439",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Multi-Timescale Optimal Operation Framework for Integrated Economic and Reliability Analysis of Hybrid Power Plants",
+      "date": "2024-07-21",
+      "doi": "10.1109/pesgm51994.2024.10688809",
+      "arxivId": null,
+      "openalexId": "W4403127750",
+      "url": "https://doi.org/10.1109/pesgm51994.2024.10688809",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Improved Two-Stage Denoising Diffusion Recovery Model Against Power Grid Measuring Uncertainties",
+      "date": "2024-07-21",
+      "doi": "10.1109/pesgm51994.2024.10688829",
+      "arxivId": null,
+      "openalexId": "W4403125454",
+      "url": "https://doi.org/10.1109/pesgm51994.2024.10688829",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "A Marginal Distributionally Robust Kalman Filter for Centralized Fusion",
+      "date": "2024-07-06",
+      "doi": null,
+      "arxivId": "2407.05052",
+      "url": "https://arxiv.org/abs/2407.05052",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "arXiv metadata"
+      ]
+    },
+    {
+      "title": "An open-source parallel EMT simulation framework",
+      "date": "2024-07-01",
+      "doi": "10.1016/j.epsr.2024.110734",
+      "arxivId": null,
+      "openalexId": "W4400216363",
+      "url": "https://doi.org/10.1016/j.epsr.2024.110734",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Distributed Automatic Generation Control Considering DPV Using T&D Dynamic Co-Simulation",
+      "date": "2024-06-09",
+      "doi": "10.1109/pvsc57443.2024.10749312",
+      "arxivId": null,
+      "openalexId": "W4404411471",
+      "url": "https://doi.org/10.1109/pvsc57443.2024.10749312",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Detection and Imputation-Based Two-Stage Denoising Diffusion Power System Measurement Recovery Under Cyber-Physical Uncertainties",
+      "date": "2024-05-30",
+      "doi": "10.1109/tsg.2024.3407544",
+      "arxivId": "2312.04346",
+      "openalexId": "W4399168590",
+      "url": "https://doi.org/10.1109/tsg.2024.3407544",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Model-based Design Tool for Cyber-physical Power Systems using SystemC-AMS",
+      "date": "2024-05-13",
+      "doi": "10.1109/destion62938.2024.00016",
+      "arxivId": "2406.17785",
+      "openalexId": "W4399996390",
+      "url": "https://doi.org/10.1109/destion62938.2024.00016",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Bad Data Repair for New Energy Stations in Power System Based on Multi-Model Parallel Integration Approach",
+      "date": "2024-02-23",
+      "doi": "10.3390/electronics13050870",
+      "arxivId": null,
+      "openalexId": "W4392123875",
+      "url": "https://doi.org/10.3390/electronics13050870",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Electric Vehicles Charging Time Constrained Deliverable Provision of Secondary Frequency Regulation",
+      "date": "2024-01-22",
+      "doi": "10.1109/tsg.2024.3356948",
+      "arxivId": null,
+      "openalexId": "W4391097071",
+      "url": "https://doi.org/10.1109/tsg.2024.3356948",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Database Generation for Data-Driven Power System Security Assessment Under Uncertainty",
+      "date": "2024-01-11",
+      "doi": "10.1109/tpwrs.2024.3352825",
+      "arxivId": null,
+      "openalexId": "W4390806043",
+      "url": "https://doi.org/10.1109/tpwrs.2024.3352825",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Multi-Timescale Modeling Framework of Hybrid Power Plants Providing Secondary Frequency Regulation",
+      "date": "2024-01-01",
+      "doi": "10.1109/oajpe.2024.3504835",
+      "arxivId": null,
+      "openalexId": "W4404627864",
+      "url": "https://doi.org/10.1109/oajpe.2024.3504835",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "HELICS: A Co-Simulation Framework for Scalable Multi-Domain Modeling and Analysis",
+      "date": "2024-01-01",
+      "doi": "10.1109/access.2024.3363615",
+      "arxivId": null,
+      "openalexId": "W4391621012",
+      "url": "https://doi.org/10.1109/access.2024.3363615",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Bus Admittance Matrix Revisited: Performance Challenges on Modern Computers",
+      "date": "2024-01-01",
+      "doi": "10.1109/oajpe.2024.3366117",
+      "arxivId": "2302.10736",
+      "openalexId": "W4391791286",
+      "url": "https://doi.org/10.1109/oajpe.2024.3366117",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Reinforcement Learning for Supply Chain Attacks Against Frequency and Voltage Control",
+      "date": "2023-12-15",
+      "doi": "10.1109/icmla58977.2023.00058",
+      "arxivId": "2309.05814",
+      "openalexId": "W4392943680",
+      "url": "https://doi.org/10.1109/icmla58977.2023.00058",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Supplementary Primary Frequency Control Through Deep Reinforcement Learning Algorithms",
+      "date": "2023-10-15",
+      "doi": "10.1109/naps58826.2023.10318681",
+      "arxivId": null,
+      "openalexId": "W4388856181",
+      "url": "https://doi.org/10.1109/naps58826.2023.10318681",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "DiME and AGVis: A Distributed Messaging Environment and Geographical Visualizer for Large-Scale Power System Simulation",
+      "date": "2023-10-15",
+      "doi": "10.1109/naps58826.2023.10318583",
+      "arxivId": "2211.11990",
+      "openalexId": "W4388872526",
+      "url": "https://doi.org/10.1109/naps58826.2023.10318583",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Parameter tuning of new type energy virtual synchronous generator based on physics-informed reinforcement learning",
+      "date": "2023-09-22",
+      "doi": "10.1109/icpre59655.2023.10353614",
+      "arxivId": null,
+      "openalexId": "W4389988391",
+      "url": "https://doi.org/10.1109/icpre59655.2023.10353614",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "A Python-Based Study of Resonant Processes in Electric Circuits",
+      "date": "2023-09-20",
+      "doi": "10.1109/infotech58664.2023.10266872",
+      "arxivId": null,
+      "openalexId": "W4387381646",
+      "url": "https://doi.org/10.1109/infotech58664.2023.10266872",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Turbine-Based Power System Tool",
+      "date": "2023-08-28",
+      "doi": "10.1109/naecon58068.2023.10365910",
+      "arxivId": null,
+      "openalexId": "W4390224682",
+      "url": "https://doi.org/10.1109/naecon58068.2023.10365910",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "PowerSimulationsDynamics.jl -- An Open Source Modeling Package for Modern Power Systems with Inverter-Based Resources",
+      "date": "2023-08-05",
+      "doi": "10.48550/arxiv.2308.02921",
+      "arxivId": "2308.02921",
+      "openalexId": "W4385681343",
+      "url": "https://doi.org/10.48550/arxiv.2308.02921",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Transient Stability Preventive Control via Tuning the Parameters of Virtual Synchronous Generators",
+      "date": "2023-07-16",
+      "doi": "10.1109/pesgm52003.2023.10253193",
+      "arxivId": null,
+      "openalexId": "W4387005867",
+      "url": "https://doi.org/10.1109/pesgm52003.2023.10253193",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Real-Time Identification of Electromechanical Oscillations via Deep Learning Enhanced Dynamic Mode Decomposition",
+      "date": "2023-07-16",
+      "doi": "10.1109/pesgm52003.2023.10252195",
+      "arxivId": null,
+      "openalexId": "W4387005845",
+      "url": "https://doi.org/10.1109/pesgm52003.2023.10252195",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Particle trajectory simulation using python and spreadsheet as an online learning alternative",
+      "date": "2023-06-28",
+      "doi": "10.31349/revmexfise.20.020202",
+      "arxivId": null,
+      "openalexId": "W4382700151",
+      "url": "https://doi.org/10.31349/revmexfise.20.020202",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Impact of Transportation Electrification on the System’s Dynamic Frequency Response",
+      "date": "2023-04-27",
+      "doi": "10.1109/kpec58008.2023.10215428",
+      "arxivId": null,
+      "openalexId": "W4385934341",
+      "url": "https://doi.org/10.1109/kpec58008.2023.10215428",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Real-time Power System Topology Recognition through Convolutional Neural Networks",
+      "date": "2023-04-26",
+      "doi": "10.1051/e3sconf/202338401005",
+      "arxivId": null,
+      "openalexId": "W4367155529",
+      "url": "https://doi.org/10.1051/e3sconf/202338401005",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations",
+        "OpenAlex text search"
+      ]
+    },
+    {
+      "title": "A Frequency Domain Approach to Predict Power System Transients",
+      "date": "2023-03-21",
+      "doi": "10.1109/tpwrs.2023.3259960",
+      "arxivId": "2111.01103",
+      "openalexId": "W4353004375",
+      "url": "https://doi.org/10.1109/tpwrs.2023.3259960",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "MatPSST: A Matlab/Simulink‐based power system simulation toolbox for research and education",
+      "date": "2023-03-02",
+      "doi": "10.1049/gtd2.12805",
+      "arxivId": null,
+      "openalexId": "W4322769874",
+      "url": "https://doi.org/10.1049/gtd2.12805",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Guidelines and Use Cases for Power Systems Dynamic Modeling and Model Verification using Modelica and OpenIPSL",
+      "date": "2023-02-09",
+      "doi": "10.3384/ecp21186146",
+      "arxivId": null,
+      "openalexId": "W4319751206",
+      "url": "https://doi.org/10.3384/ecp21186146",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Manage Real-Time Power Imbalance With Renewable Energy: Fast Generation Dispatch or Adaptive Frequency Regulation?",
+      "date": "2022-12-28",
+      "doi": "10.1109/tpwrs.2022.3232759",
+      "arxivId": null,
+      "openalexId": "W4313203580",
+      "url": "https://doi.org/10.1109/tpwrs.2022.3232759",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Benchmarks for the Formal Verification of Power Systems",
+      "date": "2022-12-13",
+      "doi": "10.29007/tg4s",
+      "arxivId": null,
+      "openalexId": "W4311273046",
+      "url": "https://doi.org/10.29007/tg4s",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Semi-Analytical Electromagnetic Transient Simulation Using Differential Transformation",
+      "date": "2022-12-09",
+      "doi": "10.1109/spies55999.2022.10082502",
+      "arxivId": "2302.09342",
+      "openalexId": "W4362501300",
+      "url": "https://doi.org/10.1109/spies55999.2022.10082502",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Fusion of Microgrid Control With Model-Free Reinforcement Learning: Review and Vision",
+      "date": "2022-11-15",
+      "doi": "10.1109/tsg.2022.3222323",
+      "arxivId": "2206.11398",
+      "openalexId": "W4312342268",
+      "url": "https://doi.org/10.1109/tsg.2022.3222323",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Precise Recovery of Corrupted Synchrophasors Based on Autoregressive Bayesian Low-Rank Factorization and Adaptive K-Medoids Clustering",
+      "date": "2022-11-11",
+      "doi": "10.1109/tpwrs.2022.3221291",
+      "arxivId": null,
+      "openalexId": "W4312641414",
+      "url": "https://doi.org/10.1109/tpwrs.2022.3221291",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Stochastic Uncertainty Propagation in Power System Dynamics Using Measure-Valued Proximal Recursions",
+      "date": "2022-10-27",
+      "doi": "10.1109/tpwrs.2022.3217267",
+      "arxivId": "2108.13405",
+      "openalexId": "W4312841069",
+      "url": "https://doi.org/10.1109/tpwrs.2022.3217267",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Cyber-Physical Dynamic System (CPDS) Modeling for Frequency Regulation and AGC Services of Distributed Energy Resources",
+      "date": "2022-08-01",
+      "doi": "10.2172/1882191",
+      "arxivId": null,
+      "openalexId": "W4293295906",
+      "url": "https://doi.org/10.2172/1882191",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Transmission-Distribution Dynamic Co-simulation of Electric Vehicles Providing Grid Frequency Response",
+      "date": "2022-07-17",
+      "doi": "10.1109/pesgm48719.2022.9917027",
+      "arxivId": null,
+      "openalexId": "W4312678948",
+      "url": "https://doi.org/10.1109/pesgm48719.2022.9917027",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Andes_gym: A Versatile Environment for Deep Reinforcement Learning in Power Systems",
+      "date": "2022-07-17",
+      "doi": "10.1109/pesgm48719.2022.9916967",
+      "arxivId": "2203.01292",
+      "openalexId": "W4313191882",
+      "url": "https://doi.org/10.1109/pesgm48719.2022.9916967",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations",
+        "OpenAlex text search",
+        "arXiv metadata"
+      ]
+    },
+    {
+      "title": "Transmission-Distribution Dynamic Co-Simulation of Electric Vehicles Providing Grid Frequency Response: Preprint",
+      "date": "2022-07-07",
+      "doi": null,
+      "arxivId": null,
+      "openalexId": "W4284887184",
+      "url": "https://www.osti.gov/biblio/1874781",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Power electronics‐interfaced cyber‐physical power systems: A review on modeling, simulation, and cybersecurity",
+      "date": "2022-06-10",
+      "doi": "10.1002/wene.448",
+      "arxivId": null,
+      "openalexId": "W4281763533",
+      "url": "https://doi.org/10.1002/wene.448",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Robust fast PMU measurement recovery enhanced by randomized singular value and sequential Tucker decomposition",
+      "date": "2022-06-06",
+      "doi": "10.1049/gtd2.12520",
+      "arxivId": null,
+      "openalexId": "W4281782959",
+      "url": "https://doi.org/10.1049/gtd2.12520",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Disturbance Propagation in Power Grids With High Converter Penetration",
+      "date": "2022-05-18",
+      "doi": "10.1109/jproc.2022.3173813",
+      "arxivId": null,
+      "openalexId": "W4285112389",
+      "url": "https://doi.org/10.1109/jproc.2022.3173813",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Design of artistic graphic symbols based on intelligent guidance marking system",
+      "date": "2022-03-13",
+      "doi": "10.1007/s00521-022-07088-6",
+      "arxivId": null,
+      "openalexId": "W4221043293",
+      "url": "https://doi.org/10.1007/s00521-022-07088-6",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "An artificial intelligence model for heart disease detection using machine learning algorithms",
+      "date": "2022-01-31",
+      "doi": "10.1016/j.health.2022.100016",
+      "arxivId": null,
+      "openalexId": "W4210253752",
+      "url": "https://doi.org/10.1016/j.health.2022.100016",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Resilient Adaptive Parallel sImulator for griD (RAPID): An Open Source Power System Simulation Toolbox",
+      "date": "2022-01-01",
+      "doi": "10.1109/oajpe.2022.3197220",
+      "arxivId": null,
+      "openalexId": "W4292770282",
+      "url": "https://doi.org/10.1109/oajpe.2022.3197220",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Robust Local PMU Measurement Recovery Based on Singular Spectrum Analysis of Hankel Structures",
+      "date": "2021-12-23",
+      "doi": "10.1109/ispec53008.2021.9735614",
+      "arxivId": null,
+      "openalexId": "W4226529625",
+      "url": "https://doi.org/10.1109/ispec53008.2021.9735614",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "2021 Index IEEE Transactions on Power Systems Vol. 36",
+      "date": "2021-11-01",
+      "doi": "10.1109/tpwrs.2021.3125235",
+      "arxivId": null,
+      "openalexId": "W4207084315",
+      "url": "https://doi.org/10.1109/tpwrs.2021.3125235",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Impacts of VSG Control on Frequency Response in Power Systems with High-Penetration Renewables",
+      "date": "2021-10-22",
+      "doi": "10.1109/ei252483.2021.9712880",
+      "arxivId": null,
+      "openalexId": "W4214580290",
+      "url": "https://doi.org/10.1109/ei252483.2021.9712880",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Encoding Frequency Constraints in Preventive Unit Commitment Using Deep Learning With Region-of-Interest Active Sampling",
+      "date": "2021-09-08",
+      "doi": "10.1109/tpwrs.2021.3110881",
+      "arxivId": "2102.09583",
+      "openalexId": "W3133338969",
+      "url": "https://doi.org/10.1109/tpwrs.2021.3110881",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Cyber-Physical Event Emulation-Based Transmission-and-Distribution Co-simulation for Situational Awareness of Grid Anomalies (SAGA)",
+      "date": "2021-07-26",
+      "doi": "10.1109/pesgm46819.2021.9637866",
+      "arxivId": null,
+      "openalexId": "W4205634800",
+      "url": "https://doi.org/10.1109/pesgm46819.2021.9637866",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Impact of DER Communication Delay in AGC: Cyber-Physical Dynamic Co-Simulation: Preprint",
+      "date": "2021-07-12",
+      "doi": null,
+      "arxivId": null,
+      "openalexId": "W4285055724",
+      "url": "https://www.osti.gov/biblio/1806281",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "An Open Source Power System Simulator in Python for Efficient Prototyping of WAMPAC Applications",
+      "date": "2021-06-28",
+      "doi": "10.1109/powertech46648.2021.9494770",
+      "arxivId": "2101.02937",
+      "openalexId": "W3119439464",
+      "url": "https://doi.org/10.1109/powertech46648.2021.9494770",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Impact of DER Communication Delay in AGC: Cyber-Physical Dynamic Co-simulation",
+      "date": "2021-06-20",
+      "doi": "10.1109/pvsc43889.2021.9518779",
+      "arxivId": null,
+      "openalexId": "W3197756925",
+      "url": "https://doi.org/10.1109/pvsc43889.2021.9518779",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Effective Parallelism for Equation and Jacobian Evaluation in Large-Scale Power Flow Calculation",
+      "date": "2021-04-15",
+      "doi": "10.1109/tpwrs.2021.3073591",
+      "arxivId": "2011.11880",
+      "openalexId": "W3110054481",
+      "url": "https://doi.org/10.1109/tpwrs.2021.3073591",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "NTP Security by Delay-based Detection in Intelligent Defense Systems",
+      "date": "2021-03-31",
+      "doi": "10.54554/jtec.2021.13.01.002",
+      "arxivId": null,
+      "openalexId": "W3182279304",
+      "url": "https://doi.org/10.54554/jtec.2021.13.01.002",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Communication and Information Security Assessment of a Digital Substation",
+      "date": "2020-11-29",
+      "doi": null,
+      "arxivId": null,
+      "openalexId": "W3129761572",
+      "url": "https://vuir.vu.edu.au/42370/",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Tools for modelling and simulating the Smart Grid",
+      "date": "2020-11-16",
+      "doi": "10.48550/arxiv.2011.07968",
+      "arxivId": "2011.07968",
+      "openalexId": "W3101485249",
+      "url": "https://doi.org/10.48550/arxiv.2011.07968",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Mass-Matrix Differential-Algebraic Equation Formulation for Transient Stability Simulation",
+      "date": "2020-08-10",
+      "doi": "10.48550/arxiv.2008.03883",
+      "arxivId": "2008.03883",
+      "openalexId": "W3047644893",
+      "url": "https://doi.org/10.48550/arxiv.2008.03883",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "On the Modeling and Simulation of Anti-Windup Proportional-Integral Controller",
+      "date": "2020-05-11",
+      "doi": "10.48550/arxiv.2005.05430",
+      "arxivId": "2005.05430",
+      "openalexId": "W3025287500",
+      "url": "https://doi.org/10.48550/arxiv.2005.05430",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "A Large-Scale Testbed as a Virtual Power Grid: For Closed-Loop Controls in Research and Testing",
+      "date": "2020-02-24",
+      "doi": "10.1109/mpe.2019.2959054",
+      "arxivId": null,
+      "openalexId": "W3008433727",
+      "url": "https://doi.org/10.1109/mpe.2019.2959054",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "Cyber‐physical system testbed for power system monitoring and wide‐area control verification",
+      "date": "2020-02-07",
+      "doi": "10.1049/iet-esi.2019.0084",
+      "arxivId": null,
+      "openalexId": "W2994973900",
+      "url": "https://doi.org/10.1049/iet-esi.2019.0084",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    },
+    {
+      "title": "A Privacy-Preserving Distributed Wide-Area Automatic Generation Control Scheme",
+      "date": "2020-01-01",
+      "doi": "10.1109/access.2020.3040883",
+      "arxivId": null,
+      "openalexId": "W3107335133",
+      "url": "https://doi.org/10.1109/access.2020.3040883",
+      "firstSeen": "2026-11-20",
+      "reviewState": "pending",
+      "sources": [
+        "OpenAlex citations"
+      ]
+    }
+  ]
 }

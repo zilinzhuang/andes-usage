@@ -1,4 +1,27 @@
 {
-  "lastSuccessfulSearch": null,
-  "sources": {}
+  "lastSuccessfulSearch": "2026-11-20T20:52:29Z",
+  "sources": {
+    "OpenAlex citations": {
+      "outcome": "success",
+      "lastSuccess": "2026-11-20T20:52:29Z",
+      "records": 196
+    },
+    "OpenAlex text search": {
+      "outcome": "success",
+      "lastSuccess": "2026-11-20T20:52:29Z",
+      "records": 13
+    },
+    "arXiv metadata": {
+      "outcome": "success",
+      "lastSuccess": "2026-11-20T20:52:29Z",
+      "records": 7
+    },
+    "Crossref journal deposits": {
+      "outcome": "success",
+      "lastSuccess": "2026-11-20T20:52:29Z",
+      "records": 0
+    }
+  },
+  "lastAttempt": "2026-11-20T20:52:29Z",
+  "outcome": "success"
 }
