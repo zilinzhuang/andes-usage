@@ -176,9 +176,292 @@
       "country": "Italy",
       "lat": 41.9,
       "lon": 12.5
+    },
+    {
+      "id": "umich",
+      "name": "University of Michigan",
+      "city": "Ann Arbor",
+      "country": "United States",
+      "lat": 42.28,
+      "lon": -83.74
+    },
+    {
+      "id": "nyu",
+      "name": "New York University",
+      "city": "New York",
+      "country": "United States",
+      "lat": 40.73,
+      "lon": -74
+    },
+    {
+      "id": "cambridge",
+      "name": "University of Cambridge",
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "lat": 52.2,
+      "lon": 0.12
+    },
+    {
+      "id": "seu",
+      "name": "Southeast University",
+      "city": "Nanjing",
+      "country": "China",
+      "lat": 32.06,
+      "lon": 118.79
+    },
+    {
+      "id": "argonne",
+      "name": "Argonne National Laboratory",
+      "city": "Lemont",
+      "country": "United States",
+      "lat": 41.71,
+      "lon": -87.98
+    },
+    {
+      "id": "rpi",
+      "name": "Rensselaer Polytechnic Institute",
+      "city": "Troy",
+      "country": "United States",
+      "lat": 42.73,
+      "lon": -73.68
+    },
+    {
+      "id": "ucd",
+      "name": "University College Dublin",
+      "city": "Dublin",
+      "country": "Ireland",
+      "lat": 53.31,
+      "lon": -6.22
+    },
+    {
+      "id": "sd-epri",
+      "name": "State Grid Shandong Electric Power Research Institute",
+      "city": "Jinan",
+      "country": "China",
+      "lat": 36.65,
+      "lon": 117.12
+    },
+    {
+      "id": "xjtu",
+      "name": "Xi’an Jiaotong University",
+      "city": "Xi’an",
+      "country": "China",
+      "lat": 34.25,
+      "lon": 108.98
+    },
+    {
+      "id": "whu",
+      "name": "Wuhan University",
+      "city": "Wuhan",
+      "country": "China",
+      "lat": 30.54,
+      "lon": 114.36
+    },
+    {
+      "id": "cepri",
+      "name": "China Electric Power Research Institute",
+      "city": "Beijing",
+      "country": "China",
+      "lat": 39.9,
+      "lon": 116.41
+    },
+    {
+      "id": "hubei-epri",
+      "name": "State Grid Hubei Electric Power Research Institute",
+      "city": "Wuhan",
+      "country": "China",
+      "lat": 30.59,
+      "lon": 114.31
+    },
+    {
+      "id": "denver",
+      "name": "University of Denver",
+      "city": "Denver",
+      "country": "United States",
+      "lat": 39.68,
+      "lon": -104.96
+    },
+    {
+      "id": "kit",
+      "name": "Karlsruhe Institute of Technology",
+      "city": "Karlsruhe",
+      "country": "Germany",
+      "lat": 49.01,
+      "lon": 8.4
+    },
+    {
+      "id": "cu-boulder",
+      "name": "University of Colorado Boulder",
+      "city": "Boulder",
+      "country": "United States",
+      "lat": 40.01,
+      "lon": -105.27
+    },
+    {
+      "id": "ucsd",
+      "name": "University of California, San Diego",
+      "city": "San Diego",
+      "country": "United States",
+      "lat": 32.88,
+      "lon": -117.23
+    },
+    {
+      "id": "caltech",
+      "name": "California Institute of Technology",
+      "city": "Pasadena",
+      "country": "United States",
+      "lat": 34.14,
+      "lon": -118.13
+    },
+    {
+      "id": "utexas-austin",
+      "name": "The University of Texas at Austin",
+      "city": "Austin",
+      "country": "United States",
+      "lat": 30.29,
+      "lon": -97.74
+    },
+    {
+      "id": "purdue",
+      "name": "Purdue University",
+      "city": "West Lafayette",
+      "country": "United States",
+      "lat": 40.43,
+      "lon": -86.91
+    },
+    {
+      "id": "binghamton",
+      "name": "Binghamton University, State University of New York",
+      "city": "Binghamton",
+      "country": "United States",
+      "lat": 42.09,
+      "lon": -75.97
+    },
+    {
+      "id": "msr",
+      "name": "Microsoft Research",
+      "city": "Redmond",
+      "country": "United States",
+      "lat": 47.64,
+      "lon": -122.13
+    },
+    {
+      "id": "stonybrook",
+      "name": "Stony Brook University",
+      "city": "Stony Brook",
+      "country": "United States",
+      "lat": 40.91,
+      "lon": -73.12
+    },
+    {
+      "id": "bldgrid",
+      "name": "BLDGrid LLC",
+      "city": "Windsor",
+      "country": "United States",
+      "lat": 40.48,
+      "lon": -104.9
+    },
+    {
+      "id": "mississippi-state",
+      "name": "Mississippi State University",
+      "city": "Starkville",
+      "country": "United States",
+      "lat": 33.46,
+      "lon": -88.79
+    },
+    {
+      "id": "siemens-dai",
+      "name": "Siemens Data & AI Research",
+      "city": "Princeton",
+      "country": "United States",
+      "lat": 40.35,
+      "lon": -74.66
+    },
+    {
+      "id": "edinburgh",
+      "name": "University of Edinburgh",
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "lat": 55.92,
+      "lon": -3.17
+    },
+    {
+      "id": "sg-sichuan",
+      "name": "State Grid Sichuan Electric Power Company",
+      "city": "Chengdu",
+      "country": "China",
+      "lat": 30.67,
+      "lon": 104.07
+    },
+    {
+      "id": "sg-sichuan-epri",
+      "name": "State Grid Sichuan Electric Power Research Institute",
+      "city": "Chengdu",
+      "country": "China",
+      "lat": 30.67,
+      "lon": 104.07
+    },
+    {
+      "id": "sichuan",
+      "name": "Sichuan University",
+      "city": "Chengdu",
+      "country": "China",
+      "lat": 30.63,
+      "lon": 104.08
+    },
+    {
+      "id": "llnl",
+      "name": "Lawrence Livermore National Laboratory",
+      "city": "Livermore",
+      "country": "United States",
+      "lat": 37.69,
+      "lon": -121.7
     }
   ],
   "papers": [
+    {
+      "id": "kemabonta-agent-rms-emt",
+      "title": "AI Agents Executing an RMS and EMT Ride-Through Workflow on a 2,000-Bus Synthetic Texas Grid: A Case Study with Open-Source Tools",
+      "date": "2026-11-17",
+      "venue": "arXiv",
+      "type": "Preprint",
+      "authors": [
+        "Tam Kemabonta",
+        "Brighton Ombuki",
+        "Vladimir Abdelnour"
+      ],
+      "institutions": [],
+      "usage": "An engineer-supervised AI agent ran the RMS portion of a ride-through study in ANDES on the ACTIVSg2000 grid. It evaluated 44 cases for a battery and co-located data center, with 15 comparisons that omitted the project.",
+      "evidence": {
+        "url": "https://arxiv.org/pdf/2611.22167#page=2",
+        "locator": "Section III-A, Simulators and Plant Models; case counts are in the abstract",
+        "quote": "ANDES 2.0.0 [16] ran the full network with the trapezoidal method at 1/240 s"
+      },
+      "url": "https://arxiv.org/abs/2611.22167",
+      "dateBasis": "First arXiv submission",
+      "arxivId": "2611.22167"
+    },
+    {
+      "id": "marcondes-gps-holdover",
+      "title": "Measurement Weighting Sets the GPS-Holdover Tolerance of PMU-Based Generator Dynamic State Estimation",
+      "date": "2026-11-17",
+      "venue": "Preprints.org",
+      "type": "Preprint",
+      "authors": [
+        "Luiz Guilherme Prince Marcondes",
+        "Robson Celso Pires"
+      ],
+      "institutions": [],
+      "usage": "The authors used ANDES to generate reference rotor-angle trajectories on the IEEE 39-bus system with stochastic loads. They evaluated how PMU clock drift and measurement weighting affected a generator state estimator.",
+      "evidence": {
+        "url": "https://www.preprints.org/manuscript/202611.1646",
+        "locator": "Section 2.2, Test System and Reference Simulation",
+        "quote": "The reference trajectories come from ANDES time-domain simulation"
+      },
+      "url": "https://doi.org/10.20944/preprints202611.1646.v1",
+      "doi": "10.20944/preprints202611.1646.v1",
+      "dateBasis": "First public posting on Preprints.org"
+    },
     {
       "id": "albustami-iberian",
       "title": "The Iberian blackout: A black swan or a gray rhino? A protection-aware dynamic voltage security assessment",
@@ -205,6 +488,30 @@
       "arxivId": "2511.17433"
     },
     {
+      "id": "miguel-foundation-surrogates",
+      "title": "Can Time Series Foundation Models Serve as Surrogates for Power Systems Dynamic Simulation?",
+      "date": "2026-11-06",
+      "dateBasis": "First arXiv submission. Accepted at the NeurIPS 2026 Foundation Models for Temporal Systems Workshop.",
+      "venue": "arXiv",
+      "type": "Preprint",
+      "authors": [
+        "Sandy Miguel",
+        "Bruno Paes Leao",
+        "Cheng Feng"
+      ],
+      "institutions": [
+        "siemens-dai"
+      ],
+      "usage": "The researchers generated 1,800 trajectories for six types of load disturbance on the IEEE 9-bus system with ANDES and compared simulator runtimes against learned surrogates.",
+      "evidence": {
+        "url": "https://arxiv.org/html/2611.10247v1#S3.SS1",
+        "locator": "Sections 3.1–3.2, Experimental Setup and Evaluation Methodology",
+        "quote": "A total of 1,800 samples were generated using ANDES across six load-related disturbance modes"
+      },
+      "url": "https://arxiv.org/abs/2611.10247",
+      "arxivId": "2611.10247"
+    },
+    {
       "id": "lu-ride-through-voltage",
       "title": "Reducing Data-Center Load Transfers with Ride-Through-Aware Voltage Control",
       "date": "2026-11-05",
@@ -226,6 +533,36 @@
       "url": "https://arxiv.org/abs/2611.08777",
       "dateBasis": "First arXiv submission",
       "arxivId": "2611.08777"
+    },
+    {
+      "id": "wang-solvrt",
+      "title": "Synthesizing Voltage Ride-Through Controllers for Data Centers",
+      "date": "2026-11-05",
+      "venue": "Proceedings of the 2026 Inaugural ACM Conference on Digital Transformation",
+      "type": "Conference paper",
+      "authors": [
+        "Wayne Wang",
+        "Archit Bhatnagar",
+        "Tongyuan Miao",
+        "Saniya Kalamkar",
+        "Wenqi Cui",
+        "Inigo Incer",
+        "Ang Chen"
+      ],
+      "institutions": [
+        "umich",
+        "nyu"
+      ],
+      "usage": "The authors connected a simulated 200 MW data center to bus 128 of the NPCC 140-bus network in ANDES. They used the resulting closed loop to test whether the SolVRT controller kept the facility connected during voltage sags.",
+      "evidence": {
+        "url": "https://arxiv.org/html/2608.07289v1#S4",
+        "locator": "Section 4, Results, Live grid simulator",
+        "quote": "We connect the data center to ANDES"
+      },
+      "url": "https://doi.org/10.1145/3847238.3849043",
+      "doi": "10.1145/3847238.3849043",
+      "dateBasis": "First online publication per ACM's Crossref deposit",
+      "arxivId": "2608.07289"
     },
     {
       "id": "pomarico-tunebench",
@@ -252,6 +589,80 @@
       "url": "https://arxiv.org/abs/2611.04640",
       "dateBasis": "First arXiv submission",
       "arxivId": "2611.04640"
+    },
+    {
+      "id": "taha-ranking-grid-parameters",
+      "title": "Ranking the Parameters Shaping Grid Dynamics",
+      "date": "2026-10-31",
+      "venue": "arXiv",
+      "type": "Preprint",
+      "authors": [
+        "Ahmad F. Taha"
+      ],
+      "institutions": [
+        "vanderbilt"
+      ],
+      "usage": "The author implemented a parameter-ranking algorithm in ANDES and used its trajectories and Jacobians to evaluate the WSCC 9-bus, IEEE 39-bus and WECC 179-bus models. The study also checked calculated modes against the ANDES eigenvalue routine.",
+      "evidence": {
+        "url": "https://arxiv.org/html/2611.01178v1#S5.SS1",
+        "locator": "Section V-A, Simulation Setup and Research Questions; Section V-B, Theory Validation",
+        "quote": "We implement Algorithm 1 in ANDES"
+      },
+      "url": "https://arxiv.org/abs/2611.01178",
+      "dateBasis": "First arXiv submission",
+      "arxivId": "2611.01178"
+    },
+    {
+      "id": "yi-heat-pump-frequency",
+      "title": "A Mixed H∞–Passivity Approach for Leveraging Heat-Pump-Connected District Heating Systems as Frequency Support in Electric Power Systems",
+      "date": "2026-10-29",
+      "venue": "arXiv",
+      "type": "Preprint",
+      "authors": [
+        "Xinyi Yi",
+        "Ioannis Lestas"
+      ],
+      "institutions": [
+        "cambridge"
+      ],
+      "usage": "The authors coupled an IEEE 39-bus electromechanical model in ANDES to four district heating systems. They used the coupled models to test heat-pump controllers for secondary frequency support without retuning them.",
+      "evidence": {
+        "url": "https://arxiv.org/pdf/2610.40955#page=7",
+        "locator": "Section V, Numerical Experiments, opening paragraph and Figure 3",
+        "quote": "a modified IEEE 39-bus dynamic model implemented in ANDES"
+      },
+      "url": "https://arxiv.org/abs/2610.40955",
+      "dateBasis": "First arXiv submission",
+      "arxivId": "2610.40955"
+    },
+    {
+      "id": "ye-uhvdc-support",
+      "title": "Physics-Informed Multi-Agent Transient Voltage Support with Simplified UHVDC Receiving-End Characteristics",
+      "date": "2026-10-27",
+      "venue": "Electronics",
+      "type": "Journal article",
+      "authors": [
+        "Xi Ye",
+        "Yongcan Wang",
+        "Wei Liu",
+        "Caibin Zhang",
+        "Jiayu Bai",
+        "Zongsheng Zheng",
+        "Chufang Xu"
+      ],
+      "institutions": [
+        "sg-sichuan",
+        "sg-sichuan-epri",
+        "sichuan"
+      ],
+      "usage": "The authors used ANDES to solve the IEEE 39-bus power flow and extract network parameters for their voltage-support controller. Their own reduced-order model generated the transient trajectories.",
+      "evidence": {
+        "url": "https://www.mdpi.com/2079-9292/15/21/4964",
+        "locator": "Section 2.1, paragraph below Figure 1, and Section 4.8",
+        "quote": "it loads the IEEE 39-bus case, solves the power flow, and supplies the bus set, branch list, and branch reactances"
+      },
+      "url": "https://doi.org/10.3390/electronics15214964",
+      "doi": "10.3390/electronics15214964"
     },
     {
       "id": "li-measurements",
@@ -325,7 +736,34 @@
         "locator": "Section IV, opening paragraphs and case studies",
         "quote": "All studies are conducted in ANDES"
       },
-      "url": "https://escholarship.org/uc/item/9h39q1zv"
+      "url": "https://escholarship.org/uc/item/9h39q1zv",
+      "dateBasis": "Publication Date printed on the eScholarship proceedings cover (September 8, 2026). The conference ran September 9–11.",
+      "metadataUrl": "https://escholarship.org/content/qt9h39q1zv/qt9h39q1zv.pdf#page=1"
+    },
+    {
+      "id": "ren-hosting-capacity",
+      "title": "Hosting Capacity Assessment of Data Centers with Voltage Ride-Through Capability in Power Systems",
+      "date": "2026-09-02",
+      "dateBasis": "First arXiv submission",
+      "venue": "arXiv",
+      "type": "Preprint",
+      "authors": [
+        "Pengyu Ren",
+        "Wei Sun",
+        "Fei Teng"
+      ],
+      "institutions": [
+        "edinburgh",
+        "imperial"
+      ],
+      "usage": "The authors ran faults on the IEEE 118-bus system in ANDES. The resulting connection-point voltage waveforms drove an internal data center model to check optimized hosting capacities and voltage ride-through.",
+      "evidence": {
+        "url": "https://arxiv.org/html/2609.03030v1#S3.SS2",
+        "locator": "Section III-B, System Configuration, and Algorithm 1",
+        "quote": "Dynamic network simulations are generated with the ANDES-based Python workflow"
+      },
+      "url": "https://arxiv.org/abs/2609.03030",
+      "arxivId": "2609.03030"
     },
     {
       "id": "matsila-inertia",
@@ -372,8 +810,173 @@
       },
       "url": "https://doi.org/10.1016/j.seta.2026.105129",
       "doi": "10.1016/j.seta.2026.105129",
-      "dateBasis": "Publisher issue month",
-      "arxivId": "2511.20276"
+      "dateBasis": "Publisher issue month (volume 92) and published-print date in Crossref. The online publication day has not been confirmed against the publisher.",
+      "arxivId": "2511.20276",
+      "metadataUrl": "https://www.sciencedirect.com/science/article/pii/S2213138826003152"
+    },
+    {
+      "id": "shamseldein-decision-transformer",
+      "title": "Generative Autonomous Grid Control: Integrating Decision Transformers With a Two-Stage Safety Stack",
+      "date": "2026-07-17",
+      "dateBasis": "IEEE online publication date.",
+      "venue": "IEEE Transactions on Smart Grid",
+      "type": "Journal article",
+      "authors": [
+        "Mohamed Shamseldein"
+      ],
+      "institutions": [
+        "ain-shams"
+      ],
+      "usage": "The author generated training trajectories for a decision transformer in ANDES and tested its frequency controller on a modified NPCC 140-bus model.",
+      "evidence": {
+        "url": "https://arxiv.org/html/2607.02379v1",
+        "locator": "Figure 1, Sections III-B and IV-A",
+        "quote": "generated from the ANDES simulator"
+      },
+      "url": "https://doi.org/10.1109/TSG.2026.3714568",
+      "doi": "10.1109/TSG.2026.3714568",
+      "metadataUrl": "https://ieeexplore.ieee.org/document/11614044",
+      "arxivId": "2607.02379"
+    },
+    {
+      "id": "mayani-kiso",
+      "title": "Kiso: a foundation for complex, agentic, and reproducible experiments",
+      "date": "2026-07-06",
+      "dateBasis": "Publisher's online publication date.",
+      "venue": "Frontiers in Complex Systems",
+      "type": "Journal article",
+      "authors": [
+        "Rajiv Mayani",
+        "Karan Vahi",
+        "Mats Rynge",
+        "Komal Thareja",
+        "Xavier Casas-Moreno",
+        "Hongwei Jin",
+        "Anirban Mandal",
+        "Francesc Lordan",
+        "Krishnan Raghavan",
+        "Rosa M. Badia",
+        "Ewa Deelman"
+      ],
+      "institutions": [
+        "usc",
+        "unc",
+        "bsc",
+        "argonne"
+      ],
+      "usage": "The authors simulated the NPCC 140-bus grid in ANDES and deployed the centralized simulation on a FABRIC node to study distributed coordination across grid areas.",
+      "evidence": {
+        "url": "https://www.frontiersin.org/journals/complex-systems/articles/10.3389/fcpxs.2026.1800335/full",
+        "locator": "Section 3.6.1, power-grid use case, paragraph describing the NPCC 140-bus network",
+        "quote": "changes simulation parameters in ANDES"
+      },
+      "doi": "10.3389/fcpxs.2026.1800335",
+      "url": "https://doi.org/10.3389/fcpxs.2026.1800335",
+      "metadataUrl": "https://www.frontiersin.org/journals/complex-systems/articles/10.3389/fcpxs.2026.1800335/full"
+    },
+    {
+      "id": "peng-open-dynamics-dataset",
+      "title": "An Open Machine-Learning–Oriented Dynamic Simulation Dataset for Power System Studies",
+      "date": "2026-07",
+      "dateBasis": "IEEE proceedings print month as registered by the publisher in Crossref.",
+      "venue": "2026 IEEE Power & Energy Society General Meeting",
+      "type": "Conference paper",
+      "authors": [
+        "Jiangkai Peng",
+        "Ignacio Aravena",
+        "Chih-Che Sun"
+      ],
+      "institutions": [
+        "nrel",
+        "llnl"
+      ],
+      "usage": "The authors' dataset-generation code loads grid cases into ANDES, solves power flow, and runs time-domain contingency simulations in parallel to produce machine-learning data.",
+      "evidence": {
+        "url": "https://github.com/llnl/psdatagen/blob/8b675c32f54154bfcae23f8b29a719d56fc8b271/README.md#citation",
+        "locator": "Companion repository README, opening description and Citation; src/run_dynamic_simulation.py, lines 35–55",
+        "quote": "Tools for generating large-scale power system dynamics training datasets using ANDES time-domain simulations with MPI parallelism."
+      },
+      "url": "https://doi.org/10.1109/PESGM58988.2026.11693714",
+      "doi": "10.1109/PESGM58988.2026.11693714",
+      "metadataUrl": "https://api.crossref.org/works/10.1109/PESGM58988.2026.11693714"
+    },
+    {
+      "id": "shamseldein-damping-actuators",
+      "title": "Hyperscale Data Centers as Wide-Area Damping Actuators for Low-Inertia Power Systems",
+      "date": "2026-06-27",
+      "dateBasis": "Publisher's online version-of-record date.",
+      "venue": "Smart Grids and Sustainable Energy",
+      "type": "Journal article",
+      "authors": [
+        "Mohamed Shamseldein"
+      ],
+      "institutions": [
+        "ain-shams"
+      ],
+      "usage": "The author used the ANDES differential-algebraic model for numerical experiments on the Kundur two-area and IEEE 39-bus benchmarks to evaluate data centers as damping actuators.",
+      "evidence": {
+        "url": "https://arxiv.org/pdf/2610.33742",
+        "locator": "Author manuscript, Section 2.1, Power system dynamic model, after equations (1)–(2)",
+        "quote": "All numerical experiments use the open-source ANDES simulator"
+      },
+      "url": "https://doi.org/10.1007/s40866-026-00358-5",
+      "doi": "10.1007/s40866-026-00358-5",
+      "metadataUrl": "https://link.springer.com/article/10.1007/s40866-026-00358-5",
+      "arxivId": "2610.33742"
+    },
+    {
+      "id": "xie-voltage-ride-through",
+      "title": "Data Center Voltage Ride-Through: Emerging Challenges and Opportunities",
+      "date": "2026-06-22",
+      "venue": "Proceedings of the 17th ACM International Conference on Future and Sustainable Energy Systems",
+      "type": "Conference paper",
+      "authors": [
+        "Yiheng Xie",
+        "Wenqi Cui",
+        "Adam Wierman"
+      ],
+      "institutions": [
+        "caltech",
+        "nyu"
+      ],
+      "usage": "The authors connected their data center model to an IEEE 14-bus network in ANDES to assess how backup resources affect low-voltage ride-through.",
+      "evidence": {
+        "url": "https://dl.acm.org/doi/full/10.1145/3744255.3798125",
+        "locator": "Section 4, Experimental Results, opening paragraph",
+        "quote": "which is interconnected to the IEEE 14-bus transmission system using the ANDES simulator"
+      },
+      "url": "https://doi.org/10.1145/3744255.3798125",
+      "doi": "10.1145/3744255.3798125",
+      "arxivId": "2510.03867",
+      "metadataUrl": "https://api.crossref.org/works/10.1145/3744255.3798125"
+    },
+    {
+      "id": "gupta-electrified-highways",
+      "title": "Frequency-Domain Characterization of Load Demand From Electrified Highways",
+      "date": "2026-06-11",
+      "dateBasis": "Journal publication date indexed by OpenAlex. The author's accepted manuscript gives June 6, 2026 as the acceptance date.",
+      "venue": "IEEE Transactions on Power Systems",
+      "type": "Journal article",
+      "authors": [
+        "Ashutossh Gupta",
+        "Vassilis Kekatos",
+        "Ruoyu Yang",
+        "Dionysios Aliprantis",
+        "Steven Pekarek"
+      ],
+      "institutions": [
+        "purdue"
+      ],
+      "usage": "The authors simulated dynamic wireless power-transfer loads on the WECC 179-bus system in ANDES to test how electrified-highway traffic affects power-system oscillations.",
+      "evidence": {
+        "url": "https://engineering.purdue.edu/~kekatos/papers/TPWRS2025b.pdf",
+        "locator": "Section VIII, Effects of DWPT Loads on a Power System, opening discussion of WECC 179-bus simulations",
+        "quote": "We simulated the impact of DWPT loads on the WECC 179-bus system using the ANDES grid dynamic simulator"
+      },
+      "url": "https://doi.org/10.1109/TPWRS.2026.3702854",
+      "doi": "10.1109/TPWRS.2026.3702854",
+      "metadataUrl": "https://openalex.org/W4416711640",
+      "arxivId": "2509.02426"
     },
     {
       "id": "shamseldein-load-modulation",
@@ -395,6 +998,31 @@
       },
       "url": "https://doi.org/10.1049/stg2.70083",
       "doi": "10.1049/stg2.70083"
+    },
+    {
+      "id": "ko-wide-area-oscillations",
+      "title": "Wide-Area Power System Oscillations From Large-Scale AI Workloads",
+      "date": "2026-04-20",
+      "dateBasis": "IEEE online publication date.",
+      "venue": "IEEE Transactions on Power Systems",
+      "type": "Journal article",
+      "authors": [
+        "Min-Seung Ko",
+        "Hao Zhu"
+      ],
+      "institutions": [
+        "utexas-austin"
+      ],
+      "usage": "The authors used ANDES for time-domain simulations on the WECC 179-bus grid to measure how AI workloads and data-center siting affect wide-area oscillations.",
+      "evidence": {
+        "url": "https://arxiv.org/html/2508.16457v1#S4.SS1",
+        "locator": "Section IV-A, Simulation Settings, final paragraph before subsection IV-B",
+        "quote": "All time-domain simulations are performed using the ANDES simulation module"
+      },
+      "url": "https://doi.org/10.1109/TPWRS.2026.3685506",
+      "doi": "10.1109/TPWRS.2026.3685506",
+      "metadataUrl": "https://doi.org/10.1109/TPWRS.2026.3685506",
+      "arxivId": "2508.16457"
     },
     {
       "id": "casas-moreno-coordination",
@@ -429,6 +1057,30 @@
       "doi": "10.3389/fcpxs.2026.1800101"
     },
     {
+      "id": "fang-polynomial-chaos",
+      "title": "Flow-based Polynomial Chaos Expansion for Uncertainty Quantification in Power System Dynamic Simulation",
+      "date": "2026-03-20",
+      "dateBasis": "First arXiv submission date.",
+      "venue": "arXiv",
+      "type": "Preprint",
+      "authors": [
+        "Le Fang",
+        "Wangkun Xu",
+        "Fei Teng"
+      ],
+      "institutions": [],
+      "usage": "The authors simulated the dynamics of a modified IEEE 14-bus grid in ANDES to test how well their uncertainty-quantification method reproduces distributions of dynamic responses.",
+      "evidence": {
+        "url": "https://arxiv.org/html/2603.20472v1#S5.SS1",
+        "locator": "Section V-A, Simulation Setup, first paragraph",
+        "quote": "with its dynamic behaviour simulated using the ANDES framework"
+      },
+      "url": "https://arxiv.org/abs/2603.20472",
+      "doi": "10.48550/arXiv.2603.20472",
+      "metadataUrl": "https://arxiv.org/abs/2603.20472",
+      "arxivId": "2603.20472"
+    },
+    {
       "id": "lu-data-centers",
       "title": "Dynamic Load Model for Data Centers with Pattern-Consistent Calibration",
       "date": "2026-02-08",
@@ -451,6 +1103,198 @@
       "url": "https://arxiv.org/abs/2602.07859",
       "dateBasis": "First arXiv submission",
       "arxivId": "2602.07859"
+    },
+    {
+      "id": "yuan-storage-planning",
+      "title": "Exploiting the Flexibility and Frequency Support Capability of Grid-Forming Energy Storage: A Bi-Level Robust Planning Model Considering Uncertainties",
+      "date": "2025-12-26",
+      "venue": "Processes",
+      "type": "Journal article",
+      "authors": [
+        "Yijia Yuan",
+        "Zheng Fan",
+        "Xirui Jiang",
+        "Yanan Wu",
+        "Chengbin Chi"
+      ],
+      "institutions": [
+        "cepri"
+      ],
+      "usage": "The team used ANDES to compare time-domain frequency responses for storage planning outcomes with and without frequency-security constraints on a modified NPCC 140-bus system.",
+      "evidence": {
+        "url": "https://www.mdpi.com/2227-9717/14/1/90",
+        "locator": "Section 5.3.1, paragraph immediately before Figure 7; Figure 7",
+        "quote": "The dynamic responses, simulated using the Andes library in Python 3.10.0"
+      },
+      "doi": "10.3390/pr14010090",
+      "url": "https://doi.org/10.3390/pr14010090"
+    },
+    {
+      "id": "gao-energy-storage-neural-ode",
+      "title": "Neural ODE-Based Frequency Stability Assessment and Control of Energy Storage Systems",
+      "date": "2025-11-12",
+      "venue": "Applied Sciences",
+      "type": "Journal article",
+      "authors": [
+        "Song Gao",
+        "Enren Liu",
+        "Zhuorui Wu",
+        "Jun Li",
+        "Meng Zhang"
+      ],
+      "institutions": [
+        "sd-epri",
+        "xjtu"
+      ],
+      "usage": "ANDES generated frequency trajectories of a virtual-synchronous-generator-controlled energy storage system connected to an infinite bus for training and testing a neural ODE and controller.",
+      "evidence": {
+        "url": "https://www.mdpi.com/2076-3417/15/22/12048",
+        "locator": "Section 3, Simulation Results, opening paragraphs; Figure 3",
+        "quote": "The real trajectories of the power system environment are obtained from the simulation in Python 3.11 and Andes"
+      },
+      "doi": "10.3390/app152212048",
+      "url": "https://doi.org/10.3390/app152212048"
+    },
+    {
+      "id": "su-simulators",
+      "title": "A Survey of Open-Source Power System Dynamic Simulators with Grid-Forming Inverter for Machine Learning Applications",
+      "date": "2025-11-10",
+      "venue": "IEEE Power & Energy Society General Meeting",
+      "type": "Conference paper",
+      "authors": [
+        "Tong Su",
+        "Jiangkai Peng",
+        "Alaa Selim",
+        "Junbo Zhao",
+        "Jin Tan"
+      ],
+      "institutions": [
+        "uconn",
+        "nrel"
+      ],
+      "usage": "The authors ran time-domain simulations in ANDES and PowerSimulationsDynamics.jl, comparing synchronous-machine, droop, and virtual synchronous machine responses on a modified IEEE 14-bus system.",
+      "evidence": {
+        "url": "https://arxiv.org/html/2412.08065v1#S4",
+        "locator": "Section IV, Simulation Comparison and Case Studies; Figure 4",
+        "quote": "TDSs were performed on these two simulators using a modified IEEE 14-bus system"
+      },
+      "url": "https://doi.org/10.1109/PESGM52009.2025.11225483",
+      "doi": "10.1109/PESGM52009.2025.11225483",
+      "dateBasis": "Date added to IEEE Xplore.",
+      "metadataUrl": "https://ieeexplore.ieee.org/document/11225483",
+      "arxivId": "2412.08065"
+    },
+    {
+      "id": "ali-predictor-corrector",
+      "title": "Improving Numerical Stability and Accuracy in Partitioned Methods with Algebraic Prediction",
+      "date": "2025-11-10",
+      "venue": "2025 IEEE Power & Energy Society General Meeting",
+      "type": "Conference paper",
+      "authors": [
+        "Ahmad Ali",
+        "Haya Monawwar",
+        "Hantao Cui"
+      ],
+      "institutions": [
+        "ncsu",
+        "okstate"
+      ],
+      "usage": "The authors implemented a predictor-corrector solver in ANDES and benchmarked it against the native implicit trapezoidal scheme on a single-machine infinite-bus system and the NPCC 140-bus system.",
+      "evidence": {
+        "url": "https://arxiv.org/pdf/2412.10911#page=4",
+        "locator": "Section IV, Case Studies, PDF page 4, paragraph preceding Case Study 1",
+        "quote": "The PC solver is implemented in the open-source power system simulation tool ANDES"
+      },
+      "doi": "10.1109/PESGM52009.2025.11225781",
+      "url": "https://doi.org/10.1109/PESGM52009.2025.11225781",
+      "arxivId": "2412.10911",
+      "metadataUrl": "https://ieeexplore.ieee.org/document/11225781",
+      "dateBasis": "Date added to IEEE Xplore."
+    },
+    {
+      "id": "li-frequency-hodmd",
+      "title": "Learning Frequency Dynamics of the Power System Using Higher-order Dynamic Mode Decomposition",
+      "date": "2025-10-06",
+      "venue": "2025 IEEE Kiel PowerTech",
+      "type": "Conference paper",
+      "authors": [
+        "Xiao Li",
+        "Xinyi Wen",
+        "Benjamin Schäfer"
+      ],
+      "institutions": [
+        "kit"
+      ],
+      "usage": "ANDES generated frequency trajectories following bus faults on the IEEE 14-bus and WECC 179-bus systems to train and test a higher-order dynamic mode decomposition model.",
+      "evidence": {
+        "url": "https://arxiv.org/pdf/2502.06186#page=3",
+        "locator": "PDF page 3, case-study setup before 'Choosing order d'",
+        "quote": "The numerical simulation is conducted using the ANDES Python package"
+      },
+      "doi": "10.1109/PowerTech59965.2025.11180213",
+      "url": "https://doi.org/10.1109/PowerTech59965.2025.11180213",
+      "arxivId": "2502.06186",
+      "metadataUrl": "https://ieeexplore.ieee.org/document/11180213",
+      "dateBasis": "Date added to IEEE Xplore."
+    },
+    {
+      "id": "gao-vsg-transient-control",
+      "title": "Adaptive Transient Power Angle Control for Virtual Synchronous Generators via Physics-Embedded Reinforcement Learning",
+      "date": "2025-09-01",
+      "venue": "Electronics",
+      "type": "Journal article",
+      "authors": [
+        "Jiemai Gao",
+        "Siyuan Chen",
+        "Shixiong Fan",
+        "Jun Jason Zhang",
+        "Deping Ke",
+        "Hao Jun",
+        "Kezheng Jiang",
+        "David Wenzhong Gao"
+      ],
+      "institutions": [
+        "whu",
+        "cepri",
+        "nrel",
+        "hubei-epri",
+        "denver"
+      ],
+      "usage": "The authors ran ANDES time-domain simulations to vary virtual inertia and damping and evaluate adaptive VSG controls on a single-machine infinite-bus system and the IEEE 39-bus system.",
+      "evidence": {
+        "url": "https://www.mdpi.com/2079-9292/14/17/3503",
+        "locator": "Section 4.1, Analysis of Parameter J and D for VSG, opening paragraphs; Figure 5",
+        "quote": "All simulations are conducted using the open-source power system simulation software ANDES (version 1.9.2)"
+      },
+      "doi": "10.3390/electronics14173503",
+      "url": "https://doi.org/10.3390/electronics14173503"
+    },
+    {
+      "id": "zater-multitask-security",
+      "title": "Semi-supervised multi-task learning based framework for power system security assessment",
+      "date": "2025-07-29",
+      "venue": "International Journal of Electrical Power & Energy Systems",
+      "type": "Journal article",
+      "authors": [
+        "Muhy Eddin Za’ter",
+        "Amir Sajadi",
+        "Bri-Mathias Hodge"
+      ],
+      "institutions": [
+        "cu-boulder",
+        "nrel"
+      ],
+      "usage": "The authors used ANDES to generate simulated measurements for their semi-supervised dynamic security assessment study on the IEEE 68-bus system.",
+      "evidence": {
+        "url": "https://arxiv.org/pdf/2407.08886#page=3",
+        "locator": "Section II-A, Data Collection and Assumptions, PDF page 3",
+        "quote": "simulation tools (ANDES [40]) to generate our data"
+      },
+      "doi": "10.1016/j.ijepes.2025.110910",
+      "url": "https://doi.org/10.1016/j.ijepes.2025.110910",
+      "arxivId": "2407.08886",
+      "metadataUrl": "https://www.colorado.edu/rasei/2025/07/29/semi-supervised-multi-task-learning-based-framework-power-system-security-assessment",
+      "dateBasis": "Publication date recorded by the RASEI institutional index and OpenAlex"
     },
     {
       "id": "alduaij-adaptive-frequency",
@@ -476,33 +1320,85 @@
       "metadataUrl": "https://asu.elsevierpure.com/en/publications/reinforcement-learning-for-stability-guaranteed-adaptive-optimal-/"
     },
     {
-      "id": "su-simulators",
-      "title": "A Survey of Open-Source Power System Dynamic Simulators with Grid-Forming Inverter for Machine Learning Applications",
-      "date": "2025",
-      "venue": "IEEE Power & Energy Society General Meeting",
+      "id": "huang-scalable-rl-vsg",
+      "title": "Transient Stability Enhancement via a Scalable RL Method with VSG Parameter Tuning",
+      "date": "2025-03-10",
+      "dateBasis": "Date added to IEEE Xplore.",
+      "venue": "IECON 2024 – 50th Annual Conference of the IEEE Industrial Electronics Society",
       "type": "Conference paper",
       "authors": [
-        "Tong Su",
-        "Jiangkai Peng",
-        "Alaa Selim",
-        "Junbo Zhao",
-        "Jin Tan"
+        "Xiaoge Huang",
+        "Ziang Zhang",
+        "Shufan Wang",
+        "Jian Li"
       ],
       "institutions": [
-        "uconn",
-        "nrel"
+        "binghamton",
+        "stonybrook"
       ],
-      "usage": "The authors ran time-domain simulations in ANDES and PowerSimulationsDynamics.jl, comparing synchronous-machine, droop, and virtual synchronous machine responses on a modified IEEE 14-bus system.",
+      "usage": "ANDES ran transient simulations of modified Kundur and NPCC systems to evaluate parallel reinforcement learning for tuning virtual synchronous generators.",
       "evidence": {
-        "url": "https://arxiv.org/html/2412.08065v1#S4",
-        "locator": "Section IV, Simulation Comparison and Case Studies; Figure 4",
-        "quote": "TDSs were performed on these two simulators using a modified IEEE 14-bus system"
+        "url": "https://par.nsf.gov/servlets/purl/10618380",
+        "locator": "Section IV, Case Studies, opening paragraph",
+        "quote": "The transient simulations are conducted using ANDES"
       },
-      "url": "https://doi.org/10.1109/PESGM52009.2025.11225483",
-      "doi": "10.1109/PESGM52009.2025.11225483",
-      "dateBasis": "Publication year in the laboratory’s proceedings record",
-      "metadataUrl": "https://research-hub.nlr.gov/en/publications/a-survey-of-open-source-power-system-dynamic-simulators-with-grid/",
-      "arxivId": "2412.08065"
+      "url": "https://doi.org/10.1109/IECON55916.2024.10905298",
+      "doi": "10.1109/IECON55916.2024.10905298",
+      "metadataUrl": "https://ieeexplore.ieee.org/document/10905298"
+    },
+    {
+      "id": "feng-event-triggered-frequency",
+      "title": "Online Event-Triggered Switching for Frequency Control in Power Grids With Variable Inertia",
+      "date": "2025-01-01",
+      "venue": "IEEE Transactions on Power Systems",
+      "type": "Journal article",
+      "authors": [
+        "Jie Feng",
+        "Wenqi Cui",
+        "Jorge Cortés",
+        "Yuanyuan Shi"
+      ],
+      "institutions": [
+        "ucsd",
+        "caltech"
+      ],
+      "usage": "The authors tested online switching among frequency controllers in a high-order IEEE 39-bus ANDES simulation using WECC photovoltaic and sixth-order synchronous generator models.",
+      "evidence": {
+        "url": "https://arxiv.org/pdf/2408.15436#page=9",
+        "locator": "PDF page 9, high-order simulation and Figure 6",
+        "quote": "High-order simulation with ANDES."
+      },
+      "doi": "10.1109/TPWRS.2024.3523262",
+      "url": "https://doi.org/10.1109/TPWRS.2024.3523262",
+      "arxivId": "2408.15436",
+      "metadataUrl": "https://authors.library.caltech.edu/records/mw9tm-3yq67",
+      "dateBasis": "Early-access publication date in the Caltech institutional record"
+    },
+    {
+      "id": "chen-flexible-loads",
+      "title": "Learning-based flexible load aggregation for secondary frequency regulation in co-simulated transmission and distribution networks",
+      "date": "2024-11-08",
+      "venue": "International Journal of Electrical Power & Energy Systems",
+      "type": "Journal article",
+      "authors": [
+        "Mengtong Chen",
+        "Qinran Hu",
+        "Tao Qian",
+        "Xinyi Chen",
+        "Rushuai Han",
+        "Yongxu Zhu"
+      ],
+      "institutions": [
+        "seu"
+      ],
+      "usage": "The authors used ANDES for the transmission grid and OpenDSS for five distribution feeders to test a flexible-load selection algorithm for secondary frequency regulation.",
+      "evidence": {
+        "url": "https://doi.org/10.1016/j.ijepes.2024.110339",
+        "locator": "Sections 2.2 and 4; Figures 2, 3 and 8",
+        "quote": "the transmission system simulator ANDES and multiple distribution network solvers OpenDSS"
+      },
+      "url": "https://doi.org/10.1016/j.ijepes.2024.110339",
+      "doi": "10.1016/j.ijepes.2024.110339"
     },
     {
       "id": "she-microgrid-vis",
@@ -533,6 +1429,62 @@
       "doi": "10.1109/TSTE.2024.3481239"
     },
     {
+      "id": "parsly-agvis",
+      "title": "DiME and AGVis: A Distributed Messaging Environment and Geographical Visualizer for Large-Scale Power System Simulation",
+      "date": "2023-11-21",
+      "venue": "North American Power Symposium",
+      "type": "Conference paper",
+      "authors": [
+        "Nicholas Parsly",
+        "Jinning Wang",
+        "Nick West",
+        "Qiwei Zhang",
+        "Hantao Cui",
+        "Fangxing (Fran) Li"
+      ],
+      "institutions": [
+        "utk",
+        "okstate"
+      ],
+      "usage": "The authors sent transient-stability simulation results from ANDES through DiME to AGVis, which displayed a frequency contour map during and after the simulation.",
+      "evidence": {
+        "url": "https://old.curent.utk.edu/2024IndustryConference/papers/Conference_PS_11.pdf",
+        "locator": "Section IV-A; Figures 3–5",
+        "quote": "AGVis receives simulation data from ANDES"
+      },
+      "url": "https://doi.org/10.1109/NAPS58826.2023.10318583",
+      "doi": "10.1109/NAPS58826.2023.10318583",
+      "arxivId": "2211.11990",
+      "dateBasis": "Date added to IEEE Xplore.",
+      "metadataUrl": "https://ieeexplore.ieee.org/document/10318583"
+    },
+    {
+      "id": "zelaya-supplementary-frequency",
+      "title": "Supplementary Primary Frequency Control Through Deep Reinforcement Learning Algorithms",
+      "date": "2023-11-21",
+      "dateBasis": "Date added to IEEE Xplore.",
+      "venue": "2023 North American Power Symposium (NAPS)",
+      "type": "Conference paper",
+      "authors": [
+        "Francisco Zelaya-Arrazabal",
+        "Timothy Thacker",
+        "Héctor Pulgar-Painemal",
+        "Zhenping Guo"
+      ],
+      "institutions": [
+        "utk"
+      ],
+      "usage": "ANDES provided nonlinear grid simulations through Andes Gym to train and evaluate two reinforcement-learning controllers on a five-machine, 14-bus system.",
+      "evidence": {
+        "url": "https://curent.utk.edu/wp-content/uploads/2024/07/Conference_PS_17-1.pdf#page=4",
+        "locator": "PDF page 4, Figure 3 and accompanying training procedure",
+        "quote": "andes gym leads the nonlinear simulations performed by andes"
+      },
+      "url": "https://doi.org/10.1109/NAPS58826.2023.10318681",
+      "doi": "10.1109/NAPS58826.2023.10318681",
+      "metadataUrl": "https://ieeexplore.ieee.org/document/10318681"
+    },
+    {
       "id": "she-virtual-inertia",
       "title": "Virtual Inertia Scheduling (VIS) for Real-Time Economic Dispatch of IBR-Penetrated Power Systems",
       "date": "2023-09-26",
@@ -559,6 +1511,148 @@
       },
       "url": "https://doi.org/10.1109/TSTE.2023.3319307",
       "doi": "10.1109/TSTE.2023.3319307"
+    },
+    {
+      "id": "huang-transient-preventive-vsg",
+      "title": "Transient Stability Preventive Control via Tuning the Parameters of Virtual Synchronous Generators",
+      "date": "2023-09-25",
+      "dateBasis": "Date added to IEEE Xplore.",
+      "venue": "2023 IEEE Power & Energy Society General Meeting (PESGM)",
+      "type": "Conference paper",
+      "authors": [
+        "Xiaoge Huang",
+        "Joon-Young Gwak",
+        "Lei Yu",
+        "Ziang Zhang",
+        "Hantao Cui"
+      ],
+      "institutions": [
+        "binghamton",
+        "okstate"
+      ],
+      "usage": "The authors used ANDES as the dynamic simulator in a reinforcement-learning environment for tuning virtual synchronous generators under grid contingencies.",
+      "evidence": {
+        "url": "https://www.osti.gov/servlets/purl/1971355",
+        "locator": "Section III-B, reinforcement-learning environment, and Section IV, Case Studies",
+        "quote": "The proposed RL environment utilizes ANDES to simulate the system dynamic"
+      },
+      "url": "https://doi.org/10.1109/PESGM52003.2023.10253193",
+      "doi": "10.1109/PESGM52003.2023.10253193",
+      "metadataUrl": "https://ieeexplore.ieee.org/document/10253193"
+    },
+    {
+      "id": "cai-saga-td",
+      "title": "Demonstrating the Transient System Impact of Cyber-Physical Events Through Scalable Transmission and Distribution (T&D) Co-Simulation",
+      "date": "2023-09-08",
+      "dateBasis": "Online publication date printed on the article and listed by the publisher. The journal issue appeared in January 2025. The publisher lists an acceptance date later in September 2023.",
+      "venue": "CSEE Journal of Power and Energy Systems",
+      "type": "Journal article",
+      "authors": [
+        "Mengmeng Cai",
+        "Wenbo Wang",
+        "Xin Fang",
+        "Anthony R. Florita",
+        "Michael Ingram",
+        "Dane Christensen"
+      ],
+      "institutions": [
+        "nrel",
+        "mississippi-state",
+        "bldgrid"
+      ],
+      "usage": "The authors used ANDES for transmission-grid dynamics and OpenDSS for distribution feeders in their SAGA co-simulation experiments.",
+      "evidence": {
+        "url": "https://docs.nrel.gov/docs/fy25osti/94699.pdf#page=3",
+        "locator": "Section II-A, transmission and distribution co-simulation, journal page 331",
+        "quote": "We utilize ANDES, a transmission system simulator, and OpenDSS, a distribution system simulator"
+      },
+      "url": "https://doi.org/10.17775/CSEEJPES.2023.01710",
+      "doi": "10.17775/CSEEJPES.2023.01710",
+      "metadataUrl": "https://www.sciopen.com/article/10.17775/CSEEJPES.2023.01710"
+    },
+    {
+      "id": "cui-frequency-domain",
+      "title": "A Frequency Domain Approach to Predict Power System Transients",
+      "date": "2023-03-21",
+      "dateBasis": "Online publication date indexed by OpenAlex. Microsoft Research also dates the article to March 2023.",
+      "venue": "IEEE Transactions on Power Systems",
+      "type": "Journal article",
+      "authors": [
+        "Wenqi Cui",
+        "Weiwei Yang",
+        "Baosen Zhang"
+      ],
+      "institutions": [
+        "uw",
+        "msr"
+      ],
+      "usage": "The authors generated the Great Britain transmission-grid trajectories with ANDES for their frequency-domain prediction experiments. Their NPCC trajectories came from MATLAB Power System Toolbox.",
+      "evidence": {
+        "url": "https://github.com/Wenqi-Cui/Predict-Power-System-Dynamics-Frequency-Domain#language-and-dependencies",
+        "locator": "Authors’ paper-specific repository, README, Language and Dependencies",
+        "quote": "The dataset for the Great Britain transmission network is generated by ANDES"
+      },
+      "url": "https://doi.org/10.1109/TPWRS.2023.3259960",
+      "doi": "10.1109/TPWRS.2023.3259960",
+      "metadataUrl": "https://openalex.org/W4353004375",
+      "arxivId": "2111.01103"
+    },
+    {
+      "id": "cui-andes-gym",
+      "title": "Andes_gym: A Versatile Environment for Deep Reinforcement Learning in Power Systems",
+      "date": "2022-10-27",
+      "venue": "IEEE Power & Energy Society General Meeting",
+      "type": "Conference paper",
+      "authors": [
+        "Hantao Cui",
+        "Yichen Zhang"
+      ],
+      "institutions": [
+        "okstate",
+        "argonne"
+      ],
+      "usage": "The authors wrapped ANDES in an OpenAI Gym environment and trained a load-frequency controller on the IEEE 14-bus system.",
+      "evidence": {
+        "url": "https://arxiv.org/pdf/2203.01292#page=2",
+        "locator": "Section II-A, Architecture and Components; Section III, Case Studies",
+        "quote": "The andes_gym environment wraps ANDES to provide the APIs in the OpenAI Gym specification."
+      },
+      "url": "https://doi.org/10.1109/PESGM48719.2022.9916967",
+      "doi": "10.1109/PESGM48719.2022.9916967",
+      "arxivId": "2203.01292",
+      "dateBasis": "Date added to IEEE Xplore.",
+      "metadataUrl": "https://ieeexplore.ieee.org/document/9916967"
+    },
+    {
+      "id": "liu-ev-grid-frequency",
+      "title": "Transmission-Distribution Dynamic Co-simulation of Electric Vehicles Providing Grid Frequency Response",
+      "date": "2022-10-27",
+      "venue": "IEEE Power & Energy Society General Meeting",
+      "type": "Conference paper",
+      "authors": [
+        "Yijing Liu",
+        "Thomas J. Overbye",
+        "Wenbo Wang",
+        "Xin Fang",
+        "Jinning Wang",
+        "Hantao Cui",
+        "Fangxing Li"
+      ],
+      "institutions": [
+        "tamu",
+        "nrel",
+        "utk"
+      ],
+      "usage": "The authors used ANDES to simulate the 2,000-bus transmission grid and OpenDSS to simulate distribution feeders when comparing electric-vehicle frequency-regulation strategies.",
+      "evidence": {
+        "url": "https://docs.nrel.gov/docs/fy22osti/81009.pdf",
+        "locator": "Transmission and distribution co-simulation setup, manuscript p. 2; Section III-A and Figure 4",
+        "quote": "the transmission simulation federate uses ANDES"
+      },
+      "url": "https://doi.org/10.1109/PESGM48719.2022.9917027",
+      "doi": "10.1109/PESGM48719.2022.9917027",
+      "dateBasis": "Date added to IEEE Xplore",
+      "metadataUrl": "https://ieeexplore.ieee.org/abstract/document/9917027"
     },
     {
       "id": "cui-primary-frequency",
@@ -613,6 +1707,56 @@
       "doi": "10.1109/TSG.2021.3118292"
     },
     {
+      "id": "wang-der-communication-delay",
+      "title": "Impact of DER Communication Delay in AGC: Cyber-Physical Dynamic Co-simulation",
+      "date": "2021-08-26",
+      "venue": "IEEE 48th Photovoltaic Specialists Conference",
+      "type": "Conference paper",
+      "authors": [
+        "Wenbo Wang",
+        "Xin Fang",
+        "Anthony Florita"
+      ],
+      "institutions": [
+        "nrel"
+      ],
+      "usage": "The authors simulated distributed photovoltaic resources and frequency control in ANDES to measure the effects of delayed control signals on an IEEE 39-bus system.",
+      "evidence": {
+        "url": "https://www.nrel.gov/docs/fy21osti/80096.pdf",
+        "locator": "Sections III and IV; Figures 4–7",
+        "quote": "The DER frequency dynamics with PFR and SFR have been added in ANDES"
+      },
+      "url": "https://doi.org/10.1109/PVSC43889.2021.9518779",
+      "doi": "10.1109/PVSC43889.2021.9518779",
+      "dateBasis": "Date added to IEEE Xplore",
+      "metadataUrl": "https://ieeexplore.ieee.org/abstract/document/9518779"
+    },
+    {
+      "id": "cui-parallel-power-flow",
+      "title": "Effective Parallelism for Equation and Jacobian Evaluation in Large-Scale Power Flow Calculation",
+      "date": "2021-04-15",
+      "venue": "IEEE Transactions on Power Systems",
+      "type": "Journal article",
+      "authors": [
+        "Hantao Cui",
+        "Fangxing Li",
+        "Xin Fang"
+      ],
+      "institutions": [
+        "utk"
+      ],
+      "usage": "The authors’ accompanying test suite runs ANDES power flow on 14-, 39-, 118- and 300-bus cases and checks the Julia solver results against the ANDES solutions.",
+      "evidence": {
+        "url": "https://github.com/cuihantao/Dianli.jl/blob/2776cc20c26e4e00847a9642530b4de710d802e1/test/test_pfsol.jl#L1-L30",
+        "locator": "Companion repository for the paper, test/test_pfsol.jl, lines 1–30",
+        "quote": "ss = Dianli.Andes.py.load(case_path, no_output=true, default_config=true)"
+      },
+      "url": "https://doi.org/10.1109/TPWRS.2021.3073591",
+      "doi": "10.1109/TPWRS.2021.3073591",
+      "arxivId": "2011.11880",
+      "metadataUrl": "https://old.curent.utk.edu/2021IndustryConference/Cui_Hantao_UTK_Li_2.pdf"
+    },
+    {
       "id": "cui-symbolic-numeric",
       "title": "Hybrid Symbolic-Numeric Framework for Power System Modeling and Analysis",
       "date": "2020-08-17",
@@ -635,6 +1779,81 @@
       "url": "https://doi.org/10.1109/TPWRS.2020.3017019",
       "doi": "10.1109/TPWRS.2020.3017019",
       "arxivId": "2002.09455"
+    },
+    {
+      "id": "cui-mass-matrix",
+      "title": "Mass-Matrix Differential-Algebraic Equation Formulation for Transient Stability Simulation",
+      "date": "2020-08-10",
+      "venue": "arXiv",
+      "type": "Preprint",
+      "authors": [
+        "Hantao Cui",
+        "Fangxing Li",
+        "Joe H. Chow"
+      ],
+      "institutions": [
+        "utk",
+        "rpi"
+      ],
+      "usage": "The authors implemented a mass-matrix formulation in ANDES 1.0.8, connected it to Julia solvers and benchmarked them on the Kundur system and a 2,224-bus Great Britain grid.",
+      "evidence": {
+        "url": "https://arxiv.org/pdf/2008.03883#page=2",
+        "locator": "Section III-A and Figures 1–2",
+        "quote": "The proposed work has been implemented in ANDES"
+      },
+      "url": "https://arxiv.org/abs/2008.03883",
+      "arxivId": "2008.03883",
+      "dateBasis": "First arXiv submission"
+    },
+    {
+      "id": "cui-anti-windup",
+      "title": "On the Modeling and Simulation of Anti-Windup Proportional-Integral Controller",
+      "date": "2020-05-11",
+      "venue": "arXiv",
+      "type": "Preprint",
+      "authors": [
+        "Hantao Cui",
+        "Yichen Zhang",
+        "Federico Milano",
+        "Fangxing Li"
+      ],
+      "institutions": [
+        "utk",
+        "argonne",
+        "ucd"
+      ],
+      "usage": "The authors used ANDES to simulate an anti-windup proportional-integral controller and verify its deadlock behavior under implicit trapezoidal integration.",
+      "evidence": {
+        "url": "https://arxiv.org/pdf/2005.05430#page=4",
+        "locator": "Section V, Simulation Verification; Figure 5",
+        "quote": "Simulation results using ANDES [13] are shown in Fig. 5."
+      },
+      "url": "https://arxiv.org/abs/2005.05430",
+      "arxivId": "2005.05430",
+      "dateBasis": "First arXiv submission"
+    },
+    {
+      "id": "cui-wide-area-testbed",
+      "title": "Cyber-physical system testbed for power system monitoring and wide-area control verification",
+      "date": "2020-02-07",
+      "venue": "IET Energy Systems Integration",
+      "type": "Journal article",
+      "authors": [
+        "Hantao Cui",
+        "Fangxing Li",
+        "Kevin Tomsovic"
+      ],
+      "institutions": [
+        "utk"
+      ],
+      "usage": "The authors ran the grid simulation in ANDES and measured how long simulated bus measurements took to reach a phasor measurement unit in their two-computer testbed.",
+      "evidence": {
+        "url": "https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-esi.2019.0084",
+        "locator": "Section 4.1, Verification of rapid data acquisition; Figure 5",
+        "quote": "Computer 1 represents the physical system layer using the power system simulation tool, ANDES"
+      },
+      "url": "https://doi.org/10.1049/iet-esi.2019.0084",
+      "doi": "10.1049/iet-esi.2019.0084"
     }
   ]
 }
