@@ -1,5 +1,6 @@
 """Validate the reviewed catalog and stage the public GitHub Pages files."""
 
+import hashlib
 import json
 import math
 import re
@@ -69,10 +70,17 @@ def main():
     require("lastSuccessfulSearch" in status, "Missing search status")
     SITE.mkdir(exist_ok=True)
     (SITE / "data").mkdir(exist_ok=True)
-    shutil.copyfile(ROOT / "index.html", SITE / "index.html")
     shutil.copytree(ROOT / "assets", SITE / "assets", dirs_exist_ok=True)
+    revision = hashlib.sha256()
     for name in ("papers.json", "status.json"):
         shutil.copyfile(ROOT / "data" / name, SITE / "data" / name)
+        revision.update((SITE / "data" / name).read_bytes())
+    html = (ROOT / "index.html").read_text(encoding="utf-8")
+    html = html.replace('data-catalog-version=""', f'data-catalog-version="{revision.hexdigest()[:12]}"')
+    for asset in ("assets/app.js", "assets/site.css"):
+        digest = hashlib.sha256((SITE / asset).read_bytes()).hexdigest()[:12]
+        html = html.replace(f'"{asset}"', f'"{asset}?v={digest}"')
+    (SITE / "index.html").write_text(html, encoding="utf-8")
     print(f"Staged {len(catalog['papers'])} papers and {len(catalog['institutions'])} institutions")
 
 

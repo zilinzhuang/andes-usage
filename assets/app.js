@@ -10,7 +10,9 @@ let selected = "";
 let query = "";
 
 async function readJson(url) {
-  const response = await fetch(url);
+  const version = document.documentElement.dataset.catalogVersion;
+  const address = version && url.startsWith("data/") ? url + "?v=" + version : url;
+  const response = await fetch(address);
   if (!response.ok) throw new Error(`Could not read ${url}`);
   return response.json();
 }
