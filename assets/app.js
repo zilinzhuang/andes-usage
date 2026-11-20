@@ -2,8 +2,10 @@
 
 const byId = (id) => document.getElementById(id);
 const locale = "en-US";
+const pageSize = 25;
 const institutions = new Map();
 let papers = [];
+let filteredPapers = [];
 let map;
 let markerLayer;
 let selected = "";
@@ -76,24 +78,61 @@ function searchText(paper) {
   return [paper.title, authors, paper.venue, paper.date, paper.usage, ...names].join(" ").toLocaleLowerCase(locale);
 }
 
-function refresh() {
-  const matched = papers.filter(p => p.search.includes(query));
-  const visible = matched.filter(p => !selected || p.institutions.includes(selected));
+function initPagination() {
+  for (const nav of document.querySelectorAll(".pagination")) {
+    nav.append(byId("page-controls").content.cloneNode(true));
+    const picker = nav.querySelector("select");
+    const changePage = page => {
+      renderPage(page);
+      const heading = byId("papers-heading");
+      heading.focus({preventScroll: true});
+      heading.scrollIntoView({block: "start", behavior: "instant"});
+    };
+    nav.querySelector(".previous-page").addEventListener("click", () => changePage(Number(picker.value) - 1));
+    nav.querySelector(".next-page").addEventListener("click", () => changePage(Number(picker.value) + 1));
+    picker.addEventListener("change", () => changePage(Number(picker.value)));
+  }
+}
+
+function renderPage(page = 1) {
+  const total = filteredPapers.length;
+  const pageCount = Math.ceil(total / pageSize);
+  const start = (page - 1) * pageSize;
+  const rows = filteredPapers.slice(start, start + pageSize);
   const list = byId("papers");
-  if (visible.length) {
-    list.replaceChildren(...visible.map(addPaperRow));
+  if (rows.length) {
+    list.replaceChildren(...rows.map(addPaperRow));
   } else {
     list.replaceChildren(element("p", "empty", "No matching papers. Try another search or institution."));
   }
   list.setAttribute("aria-busy", "false");
-  byId("visible-count").textContent = visible.length;
-  const filterActive = Boolean(query || selected);
-  byId("clear-filters").hidden = !filterActive;
-  byId("selection-note").textContent = filterActive
-    ? `${visible.length} of ${papers.length} papers${selected ? " · " + institutions.get(selected).name : ""}`
-    : "";
-  const matchingInstitutions = new Set(matched.flatMap(p => p.institutions));
-  renderMarkers([...institutions.values()].filter(inst => matchingInstitutions.has(inst.id)));
+
+  const noun = query || selected ? (total === 1 ? "match" : "matches") : (total === 1 ? "paper" : "papers");
+  byId("selection-note").textContent = pageCount > 1
+    ? `${start + 1}–${start + rows.length} of ${total} ${noun}`
+    : `${total} ${noun}`;
+  for (const nav of document.querySelectorAll(".pagination")) {
+    nav.hidden = pageCount < 2;
+    if (nav.hidden) continue;
+    const picker = nav.querySelector("select");
+    if (picker.length !== pageCount) {
+      picker.replaceChildren();
+      for (let number = 1; number <= pageCount; number++) {
+        picker.add(new Option(`Page ${number} of ${pageCount}`, number));
+      }
+    }
+    picker.value = String(page);
+    nav.querySelector(".previous-page").disabled = page === 1;
+    nav.querySelector(".next-page").disabled = page === pageCount;
+  }
+}
+
+function refresh() {
+  filteredPapers = papers.filter(p => p.search.includes(query) && (!selected || p.institutions.includes(selected)));
+  byId("visible-count").textContent = filteredPapers.length;
+  byId("clear-filters").hidden = !(query || selected);
+  renderPage();
+  refreshMarkersForQuery();
 }
 
 function chooseInstitution(id) {
@@ -259,6 +298,7 @@ async function start() {
   byId("paper-count").textContent = papers.length;
   byId("institution-count").textContent = institutions.size;
   byId("country-count").textContent = new Set([...institutions.values()].map(inst => inst.country).filter(Boolean)).size;
+  initPagination();
   byId("search").addEventListener("input", event => {
     query = event.target.value.trim().toLocaleLowerCase(locale);
     map?.closePopup();

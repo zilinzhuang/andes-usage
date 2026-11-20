@@ -56,15 +56,24 @@
 
     <section id="publications" class="publications" aria-labelledby="papers-heading">
       <div class="section-heading paper-heading">
-        <div class="heading-count"><h2 id="papers-heading">Publications</h2><span class="count-pill" id="visible-count" aria-label="Matching publications">–</span></div>
+        <div class="heading-count"><h2 id="papers-heading" tabindex="-1">Publications</h2><span class="count-pill" id="visible-count" aria-label="Matching publications">–</span></div>
         <div class="filters">
           <label class="search-box"><span class="magnifier" aria-hidden="true"></span><span class="sr-only">Search publications</span><input id="search" type="search" placeholder="Search papers…" autocomplete="off"></label>
           <label class="institution-select"><span class="sr-only">Filter by institution</span><select id="affiliation"><option value="">All institutions</option></select></label>
         </div>
       </div>
-      <div class="results-info"><span id="selection-note" role="status">Loading publications…</span><button id="clear-filters" type="button" hidden>Clear filters</button></div>
+      <div class="results-toolbar">
+        <div class="results-info"><span id="selection-note" role="status">Loading publications…</span><button id="clear-filters" type="button" hidden>Clear filters</button></div>
+        <nav class="pagination" aria-label="Publication pages above the list" hidden></nav>
+      </div>
       <div class="column-head" aria-hidden="true"><span>Publication date ↓</span><span>Paper</span><span>Verification</span></div>
       <div id="papers" aria-busy="true"></div>
+      <nav class="pagination pagination-bottom" aria-label="Publication pages below the list" hidden></nav>
+      <template id="page-controls">
+        <button type="button" class="previous-page" aria-label="Previous page" aria-controls="papers">Previous</button>
+        <label class="page-picker"><span class="sr-only">Jump to publication page</span><select aria-controls="papers"></select></label>
+        <button type="button" class="next-page" aria-label="Next page" aria-controls="papers">Next</button>
+      </template>
       <noscript><p>JavaScript displays the interactive atlas. <a href="data/papers.json">Read the publication data</a>.</p></noscript>
     </section>
 
