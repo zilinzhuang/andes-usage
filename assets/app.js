@@ -49,6 +49,7 @@ function addPaperRow(paper) {
   const title = element("h3", "paper-title");
   title.append(safeLink(paper.title, paper.url));
   const names = paper.institutions.map(id => institutions.get(id)?.name).filter(Boolean);
+  if (!names.length) names.push("Affiliation unlisted");
   const metadata = [paper.type, paper.venue, ...names].filter(Boolean).join(" · ");
   body.append(title, element("p", "paper-meta", metadata), element("p", "paper-usage", paper.usage));
   const evidence = element("details", "evidence");

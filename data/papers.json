@@ -2,6 +2,14 @@
   "reviewedThrough": "2026-11-20",
   "institutions": [
     {
+      "id": "vanderbilt",
+      "name": "Vanderbilt University",
+      "city": "Nashville",
+      "country": "United States",
+      "lat": 36.14,
+      "lon": -86.8
+    },
+    {
       "id": "ncsu",
       "name": "North Carolina State University",
       "city": "Raleigh",
@@ -152,9 +160,99 @@
       "country": "United States",
       "lat": 30.62,
       "lon": -96.34
+    },
+    {
+      "id": "polimi",
+      "name": "Politecnico di Milano",
+      "city": "Milan",
+      "country": "Italy",
+      "lat": 45.48,
+      "lon": 9.23
+    },
+    {
+      "id": "terna",
+      "name": "Terna Rete Italia S.p.A.",
+      "city": "Rome",
+      "country": "Italy",
+      "lat": 41.9,
+      "lon": 12.5
     }
   ],
   "papers": [
+    {
+      "id": "albustami-iberian",
+      "title": "The Iberian blackout: A black swan or a gray rhino? A protection-aware dynamic voltage security assessment",
+      "date": "2026-11-11",
+      "dateBasis": "Online publication date indexed by OpenAlex. The journal issue is dated January 2027.",
+      "venue": "Applied Energy",
+      "type": "Journal article",
+      "authors": [
+        "Abdallah Alalem Albustami",
+        "Ahmad F. Taha"
+      ],
+      "institutions": [
+        "vanderbilt"
+      ],
+      "usage": "The authors used ANDES 1.9.3 to run time-domain simulations on four benchmark grids and a synthetic 2,000-bus system to validate their voltage-security assessment.",
+      "evidence": {
+        "url": "https://arxiv.org/pdf/2511.17433#page=11",
+        "locator": "Section 7, Case Studies, opening paragraph (p. 11)",
+        "quote": "All simulations use ANDES 1.9.3"
+      },
+      "url": "https://doi.org/10.1016/j.apenergy.2026.129216",
+      "doi": "10.1016/j.apenergy.2026.129216",
+      "metadataUrl": "https://openalex.org/W7161943337",
+      "arxivId": "2511.17433"
+    },
+    {
+      "id": "lu-ride-through-voltage",
+      "title": "Reducing Data-Center Load Transfers with Ride-Through-Aware Voltage Control",
+      "date": "2026-11-05",
+      "venue": "arXiv",
+      "type": "Preprint",
+      "authors": [
+        "Siyu Lu",
+        "Yang Weng"
+      ],
+      "institutions": [
+        "asu"
+      ],
+      "usage": "The authors used ANDES to compare reactive power controls for keeping data center loads connected during voltage disturbances on the IEEE 14-bus, New England 39-bus, and NPCC 140-bus systems.",
+      "evidence": {
+        "url": "https://arxiv.org/html/2611.08777v1#S4.SS1",
+        "locator": "Section IV-A, Experimental Setup and Comparison Methods",
+        "quote": "Network dynamics are simulated using ANDES"
+      },
+      "url": "https://arxiv.org/abs/2611.08777",
+      "dateBasis": "First arXiv submission",
+      "arxivId": "2611.08777"
+    },
+    {
+      "id": "pomarico-tunebench",
+      "title": "TuneBench: Benchmarking AI Agents for Power System Dynamic Model Calibration",
+      "date": "2026-11-03",
+      "venue": "arXiv",
+      "type": "Preprint",
+      "authors": [
+        "Andrea Pomarico",
+        "Salvatore Tessitore",
+        "Giorgio Giannuzzi",
+        "Alberto Berizzi"
+      ],
+      "institutions": [
+        "polimi",
+        "terna"
+      ],
+      "usage": "The authors built synchronous generator and battery storage cases in ANDES to test how well AI agents could tune control parameters to match active power and voltage step responses.",
+      "evidence": {
+        "url": "https://arxiv.org/html/2611.04640v1#S3",
+        "locator": "Section III, Numerical Results, opening paragraph and subsections A and B",
+        "quote": "Both benchmark cases are built in ANDES."
+      },
+      "url": "https://arxiv.org/abs/2611.04640",
+      "dateBasis": "First arXiv submission",
+      "arxivId": "2611.04640"
+    },
     {
       "id": "li-measurements",
       "title": "Continuous-Time Alignment and Availability-Gated Fusion of Asynchronous Multi-Rate Power System Measurements",
@@ -184,6 +282,27 @@
       },
       "url": "https://doi.org/10.3390/electronics15194401",
       "doi": "10.3390/electronics15194401"
+    },
+    {
+      "id": "gupta-grid-aware-specifications",
+      "title": "Designing Grid-Aware Dynamic Specifications for Large Data Center Loads",
+      "date": "2026-09-16",
+      "venue": "arXiv",
+      "type": "Preprint",
+      "authors": [
+        "Ashutossh Gupta",
+        "Vassilis Kekatos"
+      ],
+      "institutions": [],
+      "usage": "The authors used ANDES to check how data center load ramps and periodic demand affect grid frequency on the WECC 179-bus system. They compared analytical limits against nonlinear simulations and used the linearized model to obtain frequency responses.",
+      "evidence": {
+        "url": "https://arxiv.org/html/2609.18888v1#S6",
+        "locator": "Section VI, Numerical Tests, opening paragraph and third test",
+        "quote": "We later validated the design against detailed nonlinear dynamic simulations using ANDES."
+      },
+      "url": "https://arxiv.org/abs/2609.18888",
+      "dateBasis": "First arXiv submission",
+      "arxivId": "2609.18888"
     },
     {
       "id": "zhuang-hybrid",
@@ -253,8 +372,8 @@
       },
       "url": "https://doi.org/10.1016/j.seta.2026.105129",
       "doi": "10.1016/j.seta.2026.105129",
-      "arxiv": "2511.20276",
-      "dateBasis": "Publisher issue month"
+      "dateBasis": "Publisher issue month",
+      "arxivId": "2511.20276"
     },
     {
       "id": "shamseldein-load-modulation",
@@ -330,8 +449,31 @@
         "quote": "Simulations are conducted using Python 3.12 and ANDES v1.9.3"
       },
       "url": "https://arxiv.org/abs/2602.07859",
-      "arxiv": "2602.07859",
-      "dateBasis": "First arXiv submission"
+      "dateBasis": "First arXiv submission",
+      "arxivId": "2602.07859"
+    },
+    {
+      "id": "alduaij-adaptive-frequency",
+      "title": "Reinforcement Learning for Stability-Guaranteed Adaptive Optimal Primary Frequency Control of Power Systems Using Partially Monotonic Neural Networks",
+      "date": "2025-04-02",
+      "venue": "IEEE Open Access Journal of Power and Energy",
+      "type": "Journal article",
+      "authors": [
+        "Hamad Alduaij",
+        "Yang Weng"
+      ],
+      "institutions": [
+        "asu"
+      ],
+      "usage": "The authors modeled the IEEE 39-bus New England test system in ANDES to evaluate adaptive primary frequency controllers after disturbances.",
+      "evidence": {
+        "url": "https://artefacts-discovery.researcher.life/full_text/DA-2/6a/6a989d62362d31a086898ca13571086f/full_text/2e1ae5a78bc9ff5ef53c0fc89fd9d04a.pdf#page=8",
+        "locator": "Section V, Numerical Validation, PDF page 8; model description on PDF page 3",
+        "quote": "ANDES, an open-source Python package for power system dynamic simulation, is employed to model the network"
+      },
+      "url": "https://doi.org/10.1109/OAJPE.2025.3556142",
+      "doi": "10.1109/OAJPE.2025.3556142",
+      "metadataUrl": "https://asu.elsevierpure.com/en/publications/reinforcement-learning-for-stability-guaranteed-adaptive-optimal-/"
     },
     {
       "id": "su-simulators",
@@ -358,9 +500,37 @@
       },
       "url": "https://doi.org/10.1109/PESGM52009.2025.11225483",
       "doi": "10.1109/PESGM52009.2025.11225483",
-      "arxiv": "2412.08065",
       "dateBasis": "Publication year in the laboratory’s proceedings record",
-      "metadataUrl": "https://research-hub.nlr.gov/en/publications/a-survey-of-open-source-power-system-dynamic-simulators-with-grid/"
+      "metadataUrl": "https://research-hub.nlr.gov/en/publications/a-survey-of-open-source-power-system-dynamic-simulators-with-grid/",
+      "arxivId": "2412.08065"
+    },
+    {
+      "id": "she-microgrid-vis",
+      "title": "Virtual Inertia Scheduling (VIS) for Microgrids With Static and Dynamic Security Constraints",
+      "date": "2024-10-22",
+      "venue": "IEEE Transactions on Sustainable Energy",
+      "type": "Journal article",
+      "authors": [
+        "Buxin She",
+        "Fangxing Li",
+        "Jinning Wang",
+        "Hantao Cui",
+        "Xiaofei Wang",
+        "Rui Bo"
+      ],
+      "institutions": [
+        "utk",
+        "ncsu",
+        "mst"
+      ],
+      "usage": "The researchers used ANDES to generate simulation data and validate virtual inertia schedules on an islanded microgrid adapted from the IEEE 123-bus system.",
+      "evidence": {
+        "url": "https://ning.guru/assets/pdf/10729702.pdf#page=8",
+        "locator": "TDS validation, Figures 5–6, PDF pages 8–9; data generation on page 5",
+        "quote": "The scheduling results are further validated in ANDES."
+      },
+      "url": "https://doi.org/10.1109/TSTE.2024.3481239",
+      "doi": "10.1109/TSTE.2024.3481239"
     },
     {
       "id": "she-virtual-inertia",
@@ -464,7 +634,7 @@
       },
       "url": "https://doi.org/10.1109/TPWRS.2020.3017019",
       "doi": "10.1109/TPWRS.2020.3017019",
-      "arxiv": "2002.09455"
+      "arxivId": "2002.09455"
     }
   ]
 }

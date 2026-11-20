@@ -1,66 +1,6 @@
 {
   "candidates": [
     {
-      "title": "The Iberian blackout: A black swan or a gray rhino? A protection-aware dynamic voltage security assessment",
-      "date": "2026-11-11",
-      "doi": "10.1016/j.apenergy.2026.129216",
-      "arxivId": "2511.17433",
-      "openalexId": "W7161943337",
-      "url": "https://doi.org/10.1016/j.apenergy.2026.129216",
-      "firstSeen": "2026-11-20",
-      "reviewState": "pending",
-      "sources": [
-        "OpenAlex citations"
-      ],
-      "fulltextChecked": "2026-11-20",
-      "reviewHint": {
-        "excerpt": "added protected renewable plants. All simulations use ANDES 1.9.3 [9]. A gives the details of the test systems, and the code and",
-        "section": "7 Case Studies",
-        "url": "https://arxiv.org/html/2511.17433#S7.p1.1"
-      },
-      "fulltextStatus": "passage located; needs review"
-    },
-    {
-      "title": "Reducing Data-Center Load Transfers with Ride-Through-Aware Voltage Control",
-      "date": "2026-11-05",
-      "doi": "10.48550/arxiv.2611.08777",
-      "arxivId": "2611.08777",
-      "openalexId": "W7225616160",
-      "url": "https://doi.org/10.48550/arxiv.2611.08777",
-      "firstSeen": "2026-11-20",
-      "reviewState": "pending",
-      "sources": [
-        "OpenAlex citations"
-      ],
-      "fulltextChecked": "2026-11-20",
-      "reviewHint": {
-        "excerpt": "dataset [33]. Network dynamics are simulated using ANDES [34] over Tsim=0.5T_{\\mathrm{sim}}=0.5 s, with a control interval of Δ​t=1\\Delta t=1 ms and a",
-        "section": "IV Numerical Studies / IV-A Experimental Setup and Comparison Methods",
-        "url": "https://arxiv.org/html/2611.08777#S4.SS1.p1.1"
-      },
-      "fulltextStatus": "passage located; needs review"
-    },
-    {
-      "title": "TuneBench: Benchmarking AI Agents for Power System Dynamic Model Calibration",
-      "date": "2026-11-03",
-      "doi": "10.48550/arxiv.2611.04640",
-      "arxivId": "2611.04640",
-      "openalexId": "W7225240522",
-      "url": "https://doi.org/10.48550/arxiv.2611.04640",
-      "firstSeen": "2026-11-20",
-      "reviewState": "pending",
-      "sources": [
-        "OpenAlex citations"
-      ],
-      "fulltextChecked": "2026-11-20",
-      "reviewHint": {
-        "excerpt": "Both benchmark cases are built in ANDES. The device under test is connected to an infinite bus through a line and initially",
-        "section": "III Numerical Results",
-        "url": "https://arxiv.org/html/2611.04640#S3.p1.1"
-      },
-      "fulltextStatus": "passage located; needs review"
-    },
-    {
       "title": "Ranking the Parameters Shaping Grid Dynamics",
       "date": "2026-10-31",
       "doi": "10.48550/arxiv.2611.01178",
@@ -244,26 +184,6 @@
       "sources": [
         "OpenAlex citations"
       ]
-    },
-    {
-      "title": "Designing Grid-Aware Dynamic Specifications for Large Data Center Loads",
-      "date": "2026-09-16",
-      "doi": "10.48550/arxiv.2609.18888",
-      "arxivId": "2609.18888",
-      "openalexId": "W7213563863",
-      "url": "https://doi.org/10.48550/arxiv.2609.18888",
-      "firstSeen": "2026-11-20",
-      "reviewState": "pending",
-      "sources": [
-        "OpenAlex citations"
-      ],
-      "fulltextChecked": "2026-11-20",
-      "reviewHint": {
-        "excerpt": "design against detailed nonlinear dynamic simulations using ANDES. We tested T∈(0,10]T\\in(0,10] s and P∈[100,1000]P\\in[100,1000] MW. The black and blue lines in Fig.",
-        "section": "VI Numerical Tests",
-        "url": "https://arxiv.org/html/2609.18888#S6.p2.1"
-      },
-      "fulltextStatus": "passage located; needs review"
     },
     {
       "title": "Hosting Capacity Assessment of Data Centers with Voltage Ride-Through Capability in Power Systems",
@@ -1479,19 +1399,6 @@
       ]
     },
     {
-      "title": "Reinforcement Learning for Stability-Guaranteed Adaptive Optimal Primary Frequency Control of Power Systems Using Partially Monotonic Neural Networks",
-      "date": "2025-01-01",
-      "doi": "10.1109/oajpe.2025.3556142",
-      "arxivId": null,
-      "openalexId": "W4409090270",
-      "url": "https://doi.org/10.1109/oajpe.2025.3556142",
-      "firstSeen": "2026-11-20",
-      "reviewState": "pending",
-      "sources": [
-        "OpenAlex citations"
-      ]
-    },
-    {
       "title": "Open Power System Datasets and Open Simulation Engines: A Survey Toward Machine Learning Applications",
       "date": "2025-01-01",
       "doi": "10.1109/oajpe.2025.3573958",
@@ -1602,19 +1509,6 @@
       "arxivId": null,
       "openalexId": "W4408281557",
       "url": "https://doi.org/10.1109/iecon55916.2024.10905298",
-      "firstSeen": "2026-11-20",
-      "reviewState": "pending",
-      "sources": [
-        "OpenAlex citations"
-      ]
-    },
-    {
-      "title": "Virtual Inertia Scheduling (VIS) for Microgrids With Static and Dynamic Security Constraints",
-      "date": "2024-10-22",
-      "doi": "10.1109/tste.2024.3481239",
-      "arxivId": null,
-      "openalexId": "W4403636069",
-      "url": "https://doi.org/10.1109/tste.2024.3481239",
       "firstSeen": "2026-11-20",
       "reviewState": "pending",
       "sources": [
@@ -2032,10 +1926,13 @@
       "openalexId": "W4319751206",
       "url": "https://doi.org/10.3384/ecp21186146",
       "firstSeen": "2026-11-20",
-      "reviewState": "pending",
+      "reviewState": "excluded",
       "sources": [
         "OpenAlex citations"
-      ]
+      ],
+      "reviewedOn": "2026-11-20",
+      "reviewNote": "Section 1.2 mentions ANDES as background. The study models its cases in OpenIPSL and verifies results against PSS/E.",
+      "reviewSource": "https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2022/CP219_Laera_Guidelines_PSModeling_Modelica.pdf"
     },
     {
       "title": "Manage Real-Time Power Imbalance With Renewable Energy: Fast Generation Dispatch or Adaptive Frequency Regulation?",

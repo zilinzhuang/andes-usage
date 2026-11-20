@@ -6,7 +6,7 @@ A searchable index and world map of research papers that document using the [AND
 
 ## Reading the map
 
-Markers locate the author affiliations of included studies, approximately at the institution or city level. Select an institution to filter its publications. Papers with several affiliations appear at several places but count once in the total. The publication list runs from newest to oldest. Each record gives a use summary and a link to the relevant section, figure, or supporting material.
+Markers locate the author affiliations of included studies, approximately at the institution or city level. Select an institution to filter its publications. Papers with several affiliations appear at several places but count once in the total. A verified paper whose authors omit their affiliations still appears in the publication list, with no map marker. The list runs from newest to oldest. Each record gives a use summary and a link to the relevant section, figure, or supporting material.
 
 ## Inclusion and corrections
 
