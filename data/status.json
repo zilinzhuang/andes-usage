@@ -1,5 +1,5 @@
 {
-  "lastSuccessfulSearch": "2026-11-20T21:30:09Z",
+  "lastSuccessfulSearch": "2026-11-20T23:06:28Z",
   "sources": {
     "OpenAlex citations": {
       "outcome": "success",
@@ -20,8 +20,23 @@
       "outcome": "success",
       "lastSuccess": "2026-11-20T20:52:29Z",
       "records": 0
+    },
+    "Semantic Scholar citations": {
+      "outcome": "success",
+      "lastSuccess": "2026-11-20T23:06:28Z",
+      "records": 254
+    },
+    "Semantic Scholar title and abstract search": {
+      "outcome": "success",
+      "lastSuccess": "2026-11-20T23:06:28Z",
+      "records": 22
+    },
+    "arXiv full-text scan": {
+      "outcome": "success",
+      "lastSuccess": "2026-11-20T23:06:28Z",
+      "records": 890
     }
   },
-  "lastAttempt": "2026-11-20T21:30:09Z",
+  "lastAttempt": "2026-11-20T23:06:28Z",
   "outcome": "success"
 }
