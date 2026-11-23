@@ -17,6 +17,22 @@
       "reviewSource": "https://ieeexplore.ieee.org/document/11772469"
     },
     {
+      "title": "Grid-Aware Assessment of Forced Oscillations from Spatially Distributed Large Loads",
+      "date": "2026-11-17",
+      "doi": null,
+      "arxivId": "2611.22056",
+      "openalexId": null,
+      "url": "https://arxiv.org/abs/2611.22056",
+      "firstSeen": "2026-11-23",
+      "reviewState": "pending",
+      "sources": [
+        "Manual arXiv review"
+      ],
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "The authors report grid simulations, but the full manuscript does not identify ANDES as their simulator. Shared authorship with a separately verified study does not establish its use here.",
+      "reviewSource": "https://arxiv.org/html/2611.22056v1"
+    },
+    {
       "title": "Fiedler value-based edge sensitivity analysis in power systems",
       "date": "2026-10-26",
       "doi": "10.1016/j.epsr.2026.114414",
@@ -330,21 +346,6 @@
       "reviewSource": "https://arxiv.org/pdf/2606.12791"
     },
     {
-      "title": "Vulnerability of data-driven transient stability prediction to cyber-physical attacks: A forensic XAI approach",
-      "date": "2026-05-14",
-      "doi": "10.1016/j.epsr.2026.113274",
-      "arxivId": null,
-      "openalexId": "W7161178681",
-      "url": "https://doi.org/10.1016/j.epsr.2026.113274",
-      "firstSeen": "2026-11-20",
-      "reviewState": "pending",
-      "sources": [
-        "OpenAlex citations"
-      ],
-      "reviewedOn": "2026-11-20",
-      "reviewNote": "The publisher page was not accessible to automated reading in the November 2026 review. A manual full-text check is still needed."
-    },
-    {
       "title": "THE EXTENDED ALPHA GROUP DYNAMIC MAPPING",
       "date": "2026-05-08",
       "doi": "10.31219/osf.io/5xw2r_v2",
@@ -447,23 +448,9 @@
       "sources": [
         "OpenAlex citations"
       ],
-      "reviewedOn": "2026-11-20",
-      "reviewNote": "The publisher page was not accessible to automated reading in the November 2026 review. A manual full-text check is still needed."
-    },
-    {
-      "title": "Hybrid deep learning methodology for dynamic stability and instability mode analysis considering renewable penetration",
-      "date": "2026-02-12",
-      "doi": "10.1016/j.epsr.2026.112831",
-      "arxivId": null,
-      "openalexId": "W7128680108",
-      "url": "https://doi.org/10.1016/j.epsr.2026.112831",
-      "firstSeen": "2026-11-20",
-      "reviewState": "pending",
-      "sources": [
-        "OpenAlex citations"
-      ],
-      "reviewedOn": "2026-11-20",
-      "reviewNote": "The publisher page was not accessible to automated reading in the November 2026 review. A manual full-text check is still needed."
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "The publisher and lab identify T&D dynamic co-simulation on IEEE 14- and 39-bus systems. The accessible text does not identify the simulator. The publisher says data are available on request.",
+      "reviewSource": "https://www.sciencedirect.com/science/article/pii/S2352467726000524"
     },
     {
       "title": "Physics-Informed Safe Reinforcement Learning for Primary Frequency Control of VSG-Based Grid-Forming Inverters",
@@ -477,21 +464,6 @@
       "sources": [
         "OpenAlex citations"
       ]
-    },
-    {
-      "title": "PI‐Formers: An AI4S Approach for Transient Rotor Angle Prediction in Renewable‐Integrated Power System Under Large Disturbances",
-      "date": "2026-01-01",
-      "doi": "10.1049/rpg2.70218",
-      "arxivId": null,
-      "openalexId": "W7134974039",
-      "url": "https://doi.org/10.1049/rpg2.70218",
-      "firstSeen": "2026-11-20",
-      "reviewState": "pending",
-      "sources": [
-        "OpenAlex citations"
-      ],
-      "reviewedOn": "2026-11-20",
-      "reviewNote": "The publisher page was not accessible to automated reading in the November 2026 review. A manual full-text check is still needed."
     },
     {
       "title": "Learning and Co-Optimization of Fusion Outage Trajectories With Thermal and Battery Storag",
@@ -576,19 +548,6 @@
       "arxivId": null,
       "openalexId": "W7135598474",
       "url": "https://hdl.handle.net/2117/457527",
-      "firstSeen": "2026-11-20",
-      "reviewState": "pending",
-      "sources": [
-        "OpenAlex citations"
-      ]
-    },
-    {
-      "title": "Digital-Twin Screening of Grid-Forming Support for Weak Power Systems",
-      "date": "2026-01-01",
-      "doi": null,
-      "arxivId": null,
-      "openalexId": "W7223598173",
-      "url": "https://vbn.aau.dk/da/publications/287955ae-73c9-4f53-9718-776420ddee71",
       "firstSeen": "2026-11-20",
       "reviewState": "pending",
       "sources": [
@@ -700,21 +659,6 @@
       "reviewSource": "https://www.mdpi.com/1996-1073/18/23/6289"
     },
     {
-      "title": "Conservative Q-learning with physics guidance for generator tripping control",
-      "date": "2025-11-01",
-      "doi": "10.1016/j.ijepes.2025.111181",
-      "arxivId": null,
-      "openalexId": null,
-      "url": "https://doi.org/10.1016/j.ijepes.2025.111181",
-      "firstSeen": "2026-11-20",
-      "reviewState": "pending",
-      "sources": [
-        "Semantic Scholar citations"
-      ],
-      "reviewedOn": "2026-11-20",
-      "reviewNote": "Cites the ANDES paper. The publisher page was not accessible to automated reading."
-    },
-    {
       "title": "Co-Simulation of PSS/E, OpenDSS, and PSCAD for Power Systems Stability Analysis With Inverter-Based Resources",
       "date": "2025-10-26",
       "doi": "10.1109/naps66256.2025.11272399",
@@ -799,8 +743,9 @@
       "sources": [
         "Semantic Scholar citations"
       ],
-      "reviewedOn": "2026-11-20",
-      "reviewNote": "Cites Andes_gym for a reward design choice. The full text was not accessible."
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "The HKU deposit verifies tests on 39- and 140-bus systems. The available text does not name the simulator.",
+      "reviewSource": "https://hub.hku.hk/handle/10722/362817"
     },
     {
       "title": "Steady-state power system analysis revisited for hybrid AC–DC grids",
@@ -825,10 +770,13 @@
       "openalexId": "W4412375006",
       "url": "https://doi.org/10.1109/jproc.2025.3584656",
       "firstSeen": "2026-11-20",
-      "reviewState": "pending",
+      "reviewState": "excluded",
       "sources": [
         "OpenAlex citations"
-      ]
+      ],
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "In the benchmarks section the authors list ANDES among available simulators and compare which packages provide grid-forming inverter models. No ANDES experiment was identified.",
+      "reviewSource": "https://arxiv.org/html/2407.00304v2"
     },
     {
       "title": "Inverter-Based Resources",
@@ -851,12 +799,13 @@
       "openalexId": "W4407384160",
       "url": "https://doi.org/10.1049/hve2.12520",
       "firstSeen": "2026-11-20",
-      "reviewState": "pending",
+      "reviewState": "excluded",
       "sources": [
         "OpenAlex citations"
       ],
-      "reviewedOn": "2026-11-20",
-      "reviewNote": "The publisher page was not accessible to automated reading in the November 2026 review. A manual full-text check is still needed."
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "The platform-design paper mentions ANDES only in the background comparison of existing small research-oriented packages. Its prototype tests its own software and hardware.",
+      "reviewSource": "https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/hve2.12520"
     },
     {
       "title": "Open Power System Datasets and Open Simulation Engines: A Survey Toward Machine Learning Applications",
@@ -879,12 +828,13 @@
       "openalexId": "W4409053100",
       "url": "https://doi.org/10.1049/gtd2.13348",
       "firstSeen": "2026-11-20",
-      "reviewState": "pending",
+      "reviewState": "excluded",
       "sources": [
         "OpenAlex citations"
       ],
-      "reviewedOn": "2026-11-20",
-      "reviewNote": "The publisher page was not accessible to automated reading in the November 2026 review. A manual full-text check is still needed."
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "Section 3 gives ANDES and GridDyn only as examples of possible tools. The authors describe their own Python testbed for 25–50 samples per second PMU signals. The only other ANDES occurrence is the bibliography.",
+      "reviewSource": "https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/gtd2.13348"
     },
     {
       "title": "Performance Year 1 Technical Report - OPEN COG Grid: Extendable Coherent Models-Datasets for Cognitive Power Grids",
@@ -958,8 +908,9 @@
       "sources": [
         "OpenAlex citations"
       ],
-      "reviewedOn": "2026-11-20",
-      "reviewNote": "The indexed publication confirms transmission and distribution co-simulation. No method, figure or companion code tying ANDES to this particular study was verified."
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "Fang's post about the specific paper confirms reuse of the team's DOE-funded T&D platform. It does not name ANDES. The official NREL record and its linked author publication page do not supply the methods or code. Keep pending.",
+      "reviewSource": "https://research-hub.nlr.gov/en/publications/distributed-automatic-generation-control-considering-dpv-using-ta/"
     },
     {
       "title": "Model-based Design Tool for Cyber-physical Power Systems using SystemC-AMS",
@@ -992,19 +943,6 @@
       "reviewedOn": "2026-11-20",
       "reviewNote": "The article text does not name ANDES. The simulator paper appears only in the reference list.",
       "reviewSource": "https://www.mdpi.com/2079-9292/13/5/870"
-    },
-    {
-      "title": "Multi-Timescale Modeling Framework of Hybrid Power Plants Providing Secondary Frequency Regulation",
-      "date": "2024-01-01",
-      "doi": "10.1109/oajpe.2024.3504835",
-      "arxivId": null,
-      "openalexId": "W4404627864",
-      "url": "https://doi.org/10.1109/oajpe.2024.3504835",
-      "firstSeen": "2026-11-20",
-      "reviewState": "pending",
-      "sources": [
-        "OpenAlex citations"
-      ]
     },
     {
       "title": "HELICS: A Co-Simulation Framework for Scalable Multi-Domain Modeling and Analysis",
@@ -1080,19 +1018,6 @@
       ]
     },
     {
-      "title": "Real-Time Identification of Electromechanical Oscillations via Deep Learning Enhanced Dynamic Mode Decomposition",
-      "date": "2023-07-16",
-      "doi": "10.1109/pesgm52003.2023.10252195",
-      "arxivId": null,
-      "openalexId": "W4387005845",
-      "url": "https://doi.org/10.1109/pesgm52003.2023.10252195",
-      "firstSeen": "2026-11-20",
-      "reviewState": "pending",
-      "sources": [
-        "OpenAlex citations"
-      ]
-    },
-    {
       "title": "Particle trajectory simulation using python and spreadsheet as an online learning alternative",
       "date": "2023-06-28",
       "doi": "10.31349/revmexfise.20.020202",
@@ -1116,12 +1041,13 @@
       "openalexId": "W4322769874",
       "url": "https://doi.org/10.1049/gtd2.12805",
       "firstSeen": "2026-11-20",
-      "reviewState": "pending",
+      "reviewState": "excluded",
       "sources": [
         "OpenAlex citations"
       ],
-      "reviewedOn": "2026-11-20",
-      "reviewNote": "The publisher page was not accessible to automated reading in the November 2026 review. A manual full-text check is still needed."
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "Section 1 and Table 1 compare ANDES software features. The authors explicitly name Simscape and PSAT as the tools used to verify MatPSST. The results do not report an ANDES run.",
+      "reviewSource": "https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/gtd2.12805"
     },
     {
       "title": "Guidelines and Use Cases for Power Systems Dynamic Modeling and Model Verification using Modelica and OpenIPSL",
@@ -1210,12 +1136,13 @@
       "openalexId": "W4293295906",
       "url": "https://doi.org/10.2172/1882191",
       "firstSeen": "2026-11-20",
-      "reviewState": "pending",
+      "reviewState": "excluded",
       "sources": [
         "OpenAlex citations"
       ],
-      "reviewedOn": "2026-11-20",
-      "reviewNote": "NREL technical report. Indexed excerpts describe a co-simulation built on ANDES and OpenDSS. The catalog lists papers, so the report was left for the maintainer to decide."
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "The NREL technical report documents ANDES use in Section 3.2.1 and Figure 10. It is a project report. The peer-reviewed papers from the project are indexed separately.",
+      "reviewSource": "https://docs.nlr.gov/docs/fy22osti/82644.pdf"
     },
     {
       "title": "Transmission-Distribution Dynamic Co-Simulation of Electric Vehicles Providing Grid Frequency Response: Preprint",
@@ -1260,8 +1187,9 @@
       "sources": [
         "OpenAlex citations"
       ],
-      "reviewedOn": "2026-11-20",
-      "reviewNote": "The publisher page was not accessible to automated reading in the November 2026 review. A manual full-text check is still needed."
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "Section 5 identifies a Python-simulation-based 140-bus NPCC case and cites the ANDES methods article as [43]. The text never names the solver used for those data. The separate 39-bus tests used MATLAB/Simulink. No linked study code was found.",
+      "reviewSource": "https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/gtd2.12520"
     },
     {
       "title": "Design of artistic graphic symbols based on intelligent guidance marking system",
@@ -1321,7 +1249,10 @@
       "reviewState": "pending",
       "sources": [
         "OpenAlex citations"
-      ]
+      ],
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "The conference metadata was found, but a body passage or companion code linking this paper’s runs to ANDES could not be verified.",
+      "reviewSource": "https://doi.org/10.1109/ispec53008.2021.9735614"
     },
     {
       "title": "2021 Index IEEE Transactions on Power Systems Vol. 36",
@@ -1350,9 +1281,9 @@
       "sources": [
         "OpenAlex citations"
       ],
-      "reviewedOn": "2026-11-20",
-      "reviewNote": "A footnote links the ANDES case directory for the system data. The paper states that the dynamic simulation was run in PSS/E.",
-      "reviewSource": "https://arxiv.org/pdf/2102.09583"
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "Zhang et al. identify PSS/E in Section VI and link the ANDES project in a footnote as the source of test-system data. Those details do not establish a run in ANDES.",
+      "reviewSource": "https://www.osti.gov/servlets/purl/1881010"
     },
     {
       "title": "Impact of DER Communication Delay in AGC: Cyber-Physical Dynamic Co-Simulation: Preprint",
@@ -1409,10 +1340,13 @@
       "openalexId": "W3129761572",
       "url": "https://vuir.vu.edu.au/42370/",
       "firstSeen": "2026-11-20",
-      "reviewState": "pending",
+      "reviewState": "excluded",
       "sources": [
         "OpenAlex citations"
-      ]
+      ],
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "The text attributes the use of ANDES to Cui et al. (2018) in its literature review. It does not attribute the present study’s experiments to ANDES.",
+      "reviewSource": "https://www.researchgate.net/publication/350648159_Communication_and_Information_Security_Assessment_of_a_Digital_Substation"
     },
     {
       "title": "Tools for modelling and simulating the Smart Grid",
@@ -1447,17 +1381,20 @@
       "reviewSource": "https://ieeexplore.ieee.org/document/9007798"
     },
     {
-      "title": "A Privacy-Preserving Distributed Wide-Area Automatic Generation Control Scheme",
-      "date": "2020-01-01",
-      "doi": "10.1109/access.2020.3040883",
-      "arxivId": null,
-      "openalexId": "W3107335133",
-      "url": "https://doi.org/10.1109/access.2020.3040883",
-      "firstSeen": "2026-11-20",
+      "title": "Cyber-Physical Testbed for Power System Wide-Area Measurement-Based Control Using Open-Source Software",
+      "date": "2018-03-06",
+      "doi": null,
+      "arxivId": "1803.02337",
+      "openalexId": null,
+      "url": "https://arxiv.org/abs/1803.02337",
+      "firstSeen": "2026-11-23",
       "reviewState": "pending",
       "sources": [
-        "OpenAlex citations"
-      ]
+        "Manual full-text review"
+      ],
+      "reviewedOn": "2026-11-23",
+      "reviewNote": "Section 4.2 describes ANDES, PSAT and GridDyn as interchangeable testbed engines. The WECC case studies do not specify which engine supplied their trajectories. The related 2020 IET article is already indexed for its explicitly documented ANDES latency experiment.",
+      "reviewSource": "https://arxiv.org/pdf/1803.02337"
     }
   ]
 }

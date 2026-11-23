@@ -1,5 +1,5 @@
 {
-  "lastSuccessfulSearch": "2026-11-20T23:06:28Z",
+  "lastSuccessfulSearch": "2026-11-23T14:11:48Z",
   "sources": {
     "OpenAlex citations": {
       "outcome": "success",
@@ -37,6 +37,6 @@
       "records": 890
     }
   },
-  "lastAttempt": "2026-11-20T23:06:28Z",
+  "lastAttempt": "2026-11-23T14:11:48Z",
   "outcome": "success"
 }
